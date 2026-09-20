@@ -1,0 +1,10 @@
+{
+  "name": "emin-kapi-osmaniye",
+  "private": true,
+  "scripts": {
+    "build:chrome": "node scripts/inject-chrome.mjs",
+    "verify:chrome": "node scripts/verify-chrome.mjs",
+    "build:og": "python scripts/ensure-og-images.py",
+    "build:image-sitemap": "python scripts/build-image-sitemap.py"
+  }
+}

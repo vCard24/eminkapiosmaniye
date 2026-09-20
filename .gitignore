@@ -1,0 +1,19 @@
+# Dependencies / tooling
+node_modules/
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor / local
+.vscode/
+.idea/
+*.log
+.env
+.env.*
+
+# OS junk
+__MACOSX/
+
+# Optional local scratch
+*.tmp
+*.bak

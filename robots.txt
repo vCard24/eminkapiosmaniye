@@ -1,0 +1,9 @@
+# Emin Kapı Osmaniye — robots.txt
+# Live site: https://eminkapiosmaniye.com/
+# URL yapısı: gerçek .html dosya yollarıyla birebir aynı (sunucu rewrite gerekmez).
+
+User-agent: *
+Allow: /
+
+Sitemap: https://eminkapiosmaniye.com/sitemap.xml
+Sitemap: https://eminkapiosmaniye.com/sitemap-images.xml
