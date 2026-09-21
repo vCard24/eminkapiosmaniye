@@ -1387,6 +1387,25 @@ ul { margin: 0; padding: 0; list-style: none; }
   text-align: center;
 }
 
+/* Camlı galeri: ürün adları uzun — thumb etiketini sarılacak şekilde küçült */
+.catalog--camli .catalog__thumb-code {
+  font-size: 0.62rem;
+  letter-spacing: 0.01em;
+  line-height: 1.2;
+  padding: 0.45rem 0.3rem 0.3rem;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: normal;
+}
+.catalog--camli .catalog__stage-meta strong {
+  font-size: clamp(0.95rem, 2.2vw, 1.25rem);
+  line-height: 1.25;
+  max-width: min(100%, 28rem);
+}
+
 @media (max-width: 900px) {
   .catalog__layout { grid-template-columns: 1fr; }
   .catalog__stage { min-height: auto; }
