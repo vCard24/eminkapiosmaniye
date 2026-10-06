@@ -4,7 +4,7 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://eminkapiosmaniye.com/gizlilik-politikasi.html</loc>
-    <lastmod>2026-09-21</lastmod>
+    <lastmod>2026-10-06</lastmod>
     <image:image>
       <image:loc>https://eminkapiosmaniye.com/assets/img/emin-kapi-fabrika.png</image:loc>
       <image:title>Gizlilik Politikası | Emin Kapı Osmaniye</image:title>
@@ -12,7 +12,7 @@
   </url>
   <url>
     <loc>https://eminkapiosmaniye.com/hakkimizda.html</loc>
-    <lastmod>2026-09-21</lastmod>
+    <lastmod>2026-10-06</lastmod>
     <image:image>
       <image:loc>https://eminkapiosmaniye.com/assets/img/emin-kapi-fabrika.png</image:loc>
       <image:title>Hakkımızda | Emin Kapı Osmaniye</image:title>
@@ -20,7 +20,7 @@
   </url>
   <url>
     <loc>https://eminkapiosmaniye.com/iletisim.html</loc>
-    <lastmod>2026-09-21</lastmod>
+    <lastmod>2026-10-06</lastmod>
     <image:image>
       <image:loc>https://eminkapiosmaniye.com/assets/img/emin-kapi-fabrika.png</image:loc>
       <image:title>İletişim | Emin Kapı Osmaniye</image:title>
@@ -28,7 +28,7 @@
   </url>
   <url>
     <loc>https://eminkapiosmaniye.com/</loc>
-    <lastmod>2026-09-21</lastmod>
+    <lastmod>2026-10-06</lastmod>
     <image:image>
       <image:loc>https://eminkapiosmaniye.com/assets/img/slider/emin_kapi_celik_kapi-04.webp</image:loc>
       <image:title>Osmaniye Kapı, PVC, Mobilya ve Parke | Emin Kapı</image:title>
@@ -36,7 +36,7 @@
   </url>
   <url>
     <loc>https://eminkapiosmaniye.com/katalog.html</loc>
-    <lastmod>2026-09-21</lastmod>
+    <lastmod>2026-10-06</lastmod>
     <image:image>
       <image:loc>https://eminkapiosmaniye.com/assets/img/slider/emin_kapi_celik_kapi-04.webp</image:loc>
       <image:title>Online Katalog 2026 | Emin Kapı Osmaniye</image:title>
@@ -44,7 +44,7 @@
   </url>
   <url>
     <loc>https://eminkapiosmaniye.com/kullanim-kosullari.html</loc>
-    <lastmod>2026-09-21</lastmod>
+    <lastmod>2026-10-06</lastmod>
     <image:image>
       <image:loc>https://eminkapiosmaniye.com/assets/img/emin-kapi-fabrika.png</image:loc>
       <image:title>Kullanım Koşulları | Emin Kapı Osmaniye</image:title>
@@ -52,15 +52,335 @@
   </url>
   <url>
     <loc>https://eminkapiosmaniye.com/kvkk.html</loc>
-    <lastmod>2026-09-21</lastmod>
+    <lastmod>2026-10-06</lastmod>
     <image:image>
       <image:loc>https://eminkapiosmaniye.com/assets/img/emin-kapi-fabrika.png</image:loc>
       <image:title>KVKK Aydınlatma Metni | Emin Kapı Osmaniye</image:title>
     </image:image>
   </url>
   <url>
+    <loc>https://eminkapiosmaniye.com/rehber/apartman-kapisi.html</loc>
+    <lastmod>2026-10-06</lastmod>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/luks-apartman-giris-kapisi-1600.webp</image:loc>
+      <image:title>Apartman Kapısı Modelleri ve 5 Kritik Seçim İpucu | Osmaniye</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/antrasit-siyah-laminoks-apartman-kapisi-cift-kanatli-1600.webp</image:loc>
+      <image:title>Apartman Kapısı Modelleri ve 5 Kritik Seçim İpucu | Osmaniye</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/apartman-giris-buyuk-kapi-1600.webp</image:loc>
+      <image:title>Apartman Kapısı Modelleri ve 5 Kritik Seçim İpucu | Osmaniye</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/apartman-giris-siyah-camli-kapi-1600.webp</image:loc>
+      <image:title>Apartman Kapısı Modelleri ve 5 Kritik Seçim İpucu | Osmaniye</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/ayna-camli-laminoks-apartman-kapisi-1600.webp</image:loc>
+      <image:title>Apartman Kapısı Modelleri ve 5 Kritik Seçim İpucu | Osmaniye</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/cift-kanatli-beyaz-kapi-1600.webp</image:loc>
+      <image:title>Apartman Kapısı Modelleri ve 5 Kritik Seçim İpucu | Osmaniye</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/cift-kanatli-cift-acilir-camli-bina-giris-kapisi-1600.webp</image:loc>
+      <image:title>Apartman Kapısı Modelleri ve 5 Kritik Seçim İpucu | Osmaniye</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/lazerli-apartman-giris-kapisi-1600.webp</image:loc>
+      <image:title>Apartman Kapısı Modelleri ve 5 Kritik Seçim İpucu | Osmaniye</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/selcuklu-motifli-antrasit-apartman-kapisi-1600.webp</image:loc>
+      <image:title>Apartman Kapısı Modelleri ve 5 Kritik Seçim İpucu | Osmaniye</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/uc-acilir-selcuklu-motifli-bina-apartman-kapisi-1600.webp</image:loc>
+      <image:title>Apartman Kapısı Modelleri ve 5 Kritik Seçim İpucu | Osmaniye</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://eminkapiosmaniye.com/rehber/beyaz-renkli-kapi.html</loc>
+    <lastmod>2026-10-06</lastmod>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/beyaz-kapi-modeli-selcuklu-motifi-1600.webp</image:loc>
+      <image:title>Beyaz Renkli Kapı: 5 Zamansız Dekorasyon Fikri | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/cift-kanatli-beyaz-kapi-1600.webp</image:loc>
+      <image:title>Beyaz Renkli Kapı: 5 Zamansız Dekorasyon Fikri | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/uc-kanatli-beyaz-kapi-selcuklu-motifli-1600.webp</image:loc>
+      <image:title>Beyaz Renkli Kapı: 5 Zamansız Dekorasyon Fikri | Emin Kapı</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://eminkapiosmaniye.com/rehber/bina-giris-kapisi.html</loc>
+    <lastmod>2026-10-06</lastmod>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/lazerli-bina-giris-kapisi-1600.webp</image:loc>
+      <image:title>Bina Giriş Kapısı: 7 Önemli Seçim Kriteri | Osmaniye</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/antrasit-siyah-laminoks-apartman-kapisi-cift-kanatli-1600.webp</image:loc>
+      <image:title>Bina Giriş Kapısı: 7 Önemli Seçim Kriteri | Osmaniye</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/apartman-giris-buyuk-kapi-1600.webp</image:loc>
+      <image:title>Bina Giriş Kapısı: 7 Önemli Seçim Kriteri | Osmaniye</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/apartman-giris-siyah-camli-kapi-1600.webp</image:loc>
+      <image:title>Bina Giriş Kapısı: 7 Önemli Seçim Kriteri | Osmaniye</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/aynacamli-bina-kapisi-1600.webp</image:loc>
+      <image:title>Bina Giriş Kapısı: 7 Önemli Seçim Kriteri | Osmaniye</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/aynali-yavru-kanatli-kompozit-bina-giris-kapisi-1600.webp</image:loc>
+      <image:title>Bina Giriş Kapısı: 7 Önemli Seçim Kriteri | Osmaniye</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/bina-kapisi-icten-gorunum-1600.webp</image:loc>
+      <image:title>Bina Giriş Kapısı: 7 Önemli Seçim Kriteri | Osmaniye</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/cift-acilir-daire-kapisi-1600.webp</image:loc>
+      <image:title>Bina Giriş Kapısı: 7 Önemli Seçim Kriteri | Osmaniye</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/cift-acilir-kompozit-metal-kapi-1600.webp</image:loc>
+      <image:title>Bina Giriş Kapısı: 7 Önemli Seçim Kriteri | Osmaniye</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/cift-acilir-lazer-kesim-ayna-camli-giris-kapisi-1600.webp</image:loc>
+      <image:title>Bina Giriş Kapısı: 7 Önemli Seçim Kriteri | Osmaniye</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/cift-kanatli-beyaz-kapi-1600.webp</image:loc>
+      <image:title>Bina Giriş Kapısı: 7 Önemli Seçim Kriteri | Osmaniye</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/cift-kanatli-cift-acilir-camli-bina-giris-kapisi-1600.webp</image:loc>
+      <image:title>Bina Giriş Kapısı: 7 Önemli Seçim Kriteri | Osmaniye</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/cift-sabit-orta-acilir-lazerli-bina-kapisi-1600.webp</image:loc>
+      <image:title>Bina Giriş Kapısı: 7 Önemli Seçim Kriteri | Osmaniye</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/komple-metal-dort-mevsim-yavru-kanatli-celik-kapi-1600.webp</image:loc>
+      <image:title>Bina Giriş Kapısı: 7 Önemli Seçim Kriteri | Osmaniye</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/komple-metal-lambiri-duvara-montajli-kompozit-panel-1600.webp</image:loc>
+      <image:title>Bina Giriş Kapısı: 7 Önemli Seçim Kriteri | Osmaniye</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/kompozit-celik-kapi-1600.webp</image:loc>
+      <image:title>Bina Giriş Kapısı: 7 Önemli Seçim Kriteri | Osmaniye</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/kompozit-metal-antrasit-giris-kapisi-1600.webp</image:loc>
+      <image:title>Bina Giriş Kapısı: 7 Önemli Seçim Kriteri | Osmaniye</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/kompozit-metal-giris-kapisi-1600.webp</image:loc>
+      <image:title>Bina Giriş Kapısı: 7 Önemli Seçim Kriteri | Osmaniye</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/kompozit-panel-daire-giris-kapisi-1600.webp</image:loc>
+      <image:title>Bina Giriş Kapısı: 7 Önemli Seçim Kriteri | Osmaniye</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/kompozit-panel-3-1600.webp</image:loc>
+      <image:title>Bina Giriş Kapısı: 7 Önemli Seçim Kriteri | Osmaniye</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/kompozit-sac-panel-sol-tarafi-siyah-camli-bina-kapisi-1600.webp</image:loc>
+      <image:title>Bina Giriş Kapısı: 7 Önemli Seçim Kriteri | Osmaniye</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/kompozit-tek-kanat-camsiz-1600.webp</image:loc>
+      <image:title>Bina Giriş Kapısı: 7 Önemli Seçim Kriteri | Osmaniye</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/kompozit-5-1600.webp</image:loc>
+      <image:title>Bina Giriş Kapısı: 7 Önemli Seçim Kriteri | Osmaniye</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/kompozit-6-1600.webp</image:loc>
+      <image:title>Bina Giriş Kapısı: 7 Önemli Seçim Kriteri | Osmaniye</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/laminoks-yavru-kanatli-antrasit-siyah-kapi-1600.webp</image:loc>
+      <image:title>Bina Giriş Kapısı: 7 Önemli Seçim Kriteri | Osmaniye</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/lazer-kesim-camli-bina-giris-kapisi-1600.webp</image:loc>
+      <image:title>Bina Giriş Kapısı: 7 Önemli Seçim Kriteri | Osmaniye</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/lazer-kesim-is-yeri-giris-kapisi-1600.webp</image:loc>
+      <image:title>Bina Giriş Kapısı: 7 Önemli Seçim Kriteri | Osmaniye</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/lazerli-apartman-giris-kapisi-1600.webp</image:loc>
+      <image:title>Bina Giriş Kapısı: 7 Önemli Seçim Kriteri | Osmaniye</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/lazerli-cift-yavru-kanatli-kompozit-celik-kapi-1600.webp</image:loc>
+      <image:title>Bina Giriş Kapısı: 7 Önemli Seçim Kriteri | Osmaniye</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/luks-apartman-giris-kapisi-1600.webp</image:loc>
+      <image:title>Bina Giriş Kapısı: 7 Önemli Seçim Kriteri | Osmaniye</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/luks-laminoks-aynali-bina-giris-kapisi-1600.webp</image:loc>
+      <image:title>Bina Giriş Kapısı: 7 Önemli Seçim Kriteri | Osmaniye</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/luks-pvc-kabartma-daire-ve-bina-giris-kapisi-yanyana-1600.webp</image:loc>
+      <image:title>Bina Giriş Kapısı: 7 Önemli Seçim Kriteri | Osmaniye</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/luks-pvc-kabartma-ozel-kollu-daire-giris-kapisi-1600.webp</image:loc>
+      <image:title>Bina Giriş Kapısı: 7 Önemli Seçim Kriteri | Osmaniye</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/thermo-wood-agac-tan-yapilmis-bina-giris-kapisi-1600.webp</image:loc>
+      <image:title>Bina Giriş Kapısı: 7 Önemli Seçim Kriteri | Osmaniye</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/uc-acilir-selcuklu-motifli-bina-apartman-kapisi-1600.webp</image:loc>
+      <image:title>Bina Giriş Kapısı: 7 Önemli Seçim Kriteri | Osmaniye</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/ustten-isiklikli-bina-kapisi-1600.webp</image:loc>
+      <image:title>Bina Giriş Kapısı: 7 Önemli Seçim Kriteri | Osmaniye</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/yavru-kanatli-camli-bina-giris-kapisi-1600.webp</image:loc>
+      <image:title>Bina Giriş Kapısı: 7 Önemli Seçim Kriteri | Osmaniye</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/yavru-kanatli-kompozit-celik-kapi-1600.webp</image:loc>
+      <image:title>Bina Giriş Kapısı: 7 Önemli Seçim Kriteri | Osmaniye</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/yavru-kanatli-laminoks-bina-giris-kapisi-1600.webp</image:loc>
+      <image:title>Bina Giriş Kapısı: 7 Önemli Seçim Kriteri | Osmaniye</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/yavru-kanatli-lazerli-bina-giris-kapisi-1600.webp</image:loc>
+      <image:title>Bina Giriş Kapısı: 7 Önemli Seçim Kriteri | Osmaniye</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/yavru-kanatli-kompozit-celik-kapi-2-1600.webp</image:loc>
+      <image:title>Bina Giriş Kapısı: 7 Önemli Seçim Kriteri | Osmaniye</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://eminkapiosmaniye.com/rehber/camli-bina-kapisi.html</loc>
+    <lastmod>2026-10-06</lastmod>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/lazer-kesim-camli-bina-giris-kapisi-1600.webp</image:loc>
+      <image:title>Camlı Bina Kapısı: 6 Güvenli ve Modern Seçenek | Osmaniye</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/apartman-giris-siyah-camli-kapi-1600.webp</image:loc>
+      <image:title>Camlı Bina Kapısı: 6 Güvenli ve Modern Seçenek | Osmaniye</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/ayna-camli-laminoks-apartman-kapisi-1600.webp</image:loc>
+      <image:title>Camlı Bina Kapısı: 6 Güvenli ve Modern Seçenek | Osmaniye</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/aynacamli-bina-kapisi-1600.webp</image:loc>
+      <image:title>Camlı Bina Kapısı: 6 Güvenli ve Modern Seçenek | Osmaniye</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/aynali-yavru-kanatli-kompozit-bina-giris-kapisi-1600.webp</image:loc>
+      <image:title>Camlı Bina Kapısı: 6 Güvenli ve Modern Seçenek | Osmaniye</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/cift-acilir-lazer-kesim-ayna-camli-giris-kapisi-1600.webp</image:loc>
+      <image:title>Camlı Bina Kapısı: 6 Güvenli ve Modern Seçenek | Osmaniye</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/cift-kanatli-cift-acilir-camli-bina-giris-kapisi-1600.webp</image:loc>
+      <image:title>Camlı Bina Kapısı: 6 Güvenli ve Modern Seçenek | Osmaniye</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/iki-acilir-bir-acilir-yavru-kanat-bir-acilir-tam-kanat-sabit-acilmaz-camli-kasali-1600.webp</image:loc>
+      <image:title>Camlı Bina Kapısı: 6 Güvenli ve Modern Seçenek | Osmaniye</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/kahverengi-camli-kapi-modeli-1600.webp</image:loc>
+      <image:title>Camlı Bina Kapısı: 6 Güvenli ve Modern Seçenek | Osmaniye</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/kompozit-sac-panel-sol-tarafi-siyah-camli-bina-kapisi-1600.webp</image:loc>
+      <image:title>Camlı Bina Kapısı: 6 Güvenli ve Modern Seçenek | Osmaniye</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/laminoks-camli-celik-kapi-1600.webp</image:loc>
+      <image:title>Camlı Bina Kapısı: 6 Güvenli ve Modern Seçenek | Osmaniye</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/lazer-kesim-celik-kapi-camli-1600.webp</image:loc>
+      <image:title>Camlı Bina Kapısı: 6 Güvenli ve Modern Seçenek | Osmaniye</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/lazer-kesim-siyah-camli-celik-kapi-1600.webp</image:loc>
+      <image:title>Camlı Bina Kapısı: 6 Güvenli ve Modern Seçenek | Osmaniye</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/luks-kabartmali-camli-antrasit-pvc-kabartma-celik-kapi-1600.webp</image:loc>
+      <image:title>Camlı Bina Kapısı: 6 Güvenli ve Modern Seçenek | Osmaniye</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/luks-laminoks-aynali-bina-giris-kapisi-1600.webp</image:loc>
+      <image:title>Camlı Bina Kapısı: 6 Güvenli ve Modern Seçenek | Osmaniye</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/pencreli-kapi-modeli-1600.webp</image:loc>
+      <image:title>Camlı Bina Kapısı: 6 Güvenli ve Modern Seçenek | Osmaniye</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/tek-acilir-lazerli-aynali-kapi-1600.webp</image:loc>
+      <image:title>Camlı Bina Kapısı: 6 Güvenli ve Modern Seçenek | Osmaniye</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/tek-acilir-lazerli-aynali-kapi-2-1600.webp</image:loc>
+      <image:title>Camlı Bina Kapısı: 6 Güvenli ve Modern Seçenek | Osmaniye</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/yavru-kanat-camli-laminoks-celik-kapi-1600.webp</image:loc>
+      <image:title>Camlı Bina Kapısı: 6 Güvenli ve Modern Seçenek | Osmaniye</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/yavru-kanatli-camli-bina-giris-kapisi-1600.webp</image:loc>
+      <image:title>Camlı Bina Kapısı: 6 Güvenli ve Modern Seçenek | Osmaniye</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/yavru-kanatli-camli-celik-kapi-1600.webp</image:loc>
+      <image:title>Camlı Bina Kapısı: 6 Güvenli ve Modern Seçenek | Osmaniye</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/yavru-kanatli-lazer-kesim-camli-celik-kapi-1600.webp</image:loc>
+      <image:title>Camlı Bina Kapısı: 6 Güvenli ve Modern Seçenek | Osmaniye</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://eminkapiosmaniye.com/rehber/</loc>
-    <lastmod>2026-09-21</lastmod>
+    <lastmod>2026-10-06</lastmod>
     <image:image>
       <image:loc>https://eminkapiosmaniye.com/assets/img/products/cards/bilgi-fiyat-rehberi.webp</image:loc>
       <image:title>Osmaniye Bilgi / Fiyat Rehberi | Emin Kapı</image:title>
@@ -90,6 +410,26 @@
       <image:title>Osmaniye Bilgi / Fiyat Rehberi | Emin Kapı</image:title>
     </image:image>
     <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/lazerli-bina-giris-kapisi-800.webp</image:loc>
+      <image:title>Osmaniye Bilgi / Fiyat Rehberi | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/luks-apartman-giris-kapisi-800.webp</image:loc>
+      <image:title>Osmaniye Bilgi / Fiyat Rehberi | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/thermo-wood-izolasyonlu-kapi-800.webp</image:loc>
+      <image:title>Osmaniye Bilgi / Fiyat Rehberi | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/beyaz-kapi-modeli-selcuklu-motifi-800.webp</image:loc>
+      <image:title>Osmaniye Bilgi / Fiyat Rehberi | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/lazer-kesim-camli-bina-giris-kapisi-800.webp</image:loc>
+      <image:title>Osmaniye Bilgi / Fiyat Rehberi | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
       <image:loc>https://eminkapiosmaniye.com/assets/img/products/celik-kilit/01-hafif-multisistem-merkezi-celik-kapi-kilidi.jpg</image:loc>
       <image:title>Osmaniye Bilgi / Fiyat Rehberi | Emin Kapı</image:title>
     </image:image>
@@ -104,7 +444,7 @@
   </url>
   <url>
     <loc>https://eminkapiosmaniye.com/rehber/osmaniye-celik-kapi-fiyatlari.html</loc>
-    <lastmod>2026-09-21</lastmod>
+    <lastmod>2026-10-06</lastmod>
     <image:image>
       <image:loc>https://eminkapiosmaniye.com/assets/img/products/cards/celik-kapi.webp</image:loc>
       <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
@@ -201,10 +541,526 @@
       <image:loc>https://eminkapiosmaniye.com/assets/img/products/celik/celik-kapi-23.webp</image:loc>
       <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
     </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/antrasit-renkli-kapi-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/antrasit-siyah-laminoks-apartman-kapisi-cift-kanatli-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/antrasit-siyah-laminoks-daire-kapisi-tek-kanatli-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/apartman-giris-buyuk-kapi-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/apartman-giris-siyah-camli-kapi-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/ayna-camli-laminoks-apartman-kapisi-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/aynacamli-bina-kapisi-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/aynali-yavru-kanatli-kompozit-bina-giris-kapisi-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/beyaz-kapi-modeli-selcuklu-motifi-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/bina-kapisi-icten-gorunum-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/buyuk-kapi-modeli-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/cift-acilir-daire-kapisi-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/cift-acilir-kompozit-metal-kapi-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/cift-acilir-lazer-kesim-ayna-camli-giris-kapisi-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/cift-kanatli-beyaz-kapi-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/cift-kanatli-cift-acilir-camli-bina-giris-kapisi-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/cift-sabit-orta-acilir-lazerli-bina-kapisi-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/genis-kapi-modeli-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/iki-acilir-bir-acilir-yavru-kanat-bir-acilir-tam-kanat-sabit-acilmaz-camli-kasali-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/kahverengi-camli-kapi-modeli-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/komple-metal-dort-mevsim-yavru-kanatli-celik-kapi-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/komple-metal-lambiri-duvara-montajli-kompozit-panel-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/kompozit-celik-kapi-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/kompozit-metal-antrasit-giris-kapisi-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/kompozit-metal-giris-kapisi-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/kompozit-panel-daire-giris-kapisi-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/kompozit-panel-3-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/kompozit-sac-panel-sol-tarafi-siyah-camli-bina-kapisi-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/kompozit-tek-kanat-camsiz-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/kompozit-5-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/kompozit-6-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/korkuluklu-bordo-renkli-kapi-modeli-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/laminoks-camli-celik-kapi-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/laminoks-yavru-kanatli-antrasit-siyah-kapi-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/lazer-kesim-camli-bina-giris-kapisi-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/lazer-kesim-celik-kapi-camli-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/lazer-kesim-is-yeri-giris-kapisi-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/lazer-kesim-siyah-camli-celik-kapi-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/lazerli-apartman-giris-kapisi-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/lazerli-bina-giris-kapisi-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/lazerli-cift-yavru-kanatli-kompozit-celik-kapi-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/luks-apartman-giris-kapisi-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/luks-kabartmali-camli-antrasit-pvc-kabartma-celik-kapi-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/luks-laminoks-aynali-bina-giris-kapisi-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/luks-laminoks-kapi-modeli-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/luks-laminoks-kapi-modeli-10-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/luks-laminoks-kapi-modeli-14-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/luks-laminoks-kapi-modeli-15-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/luks-laminoks-kapi-modeli-16-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/luks-laminoks-kapi-modeli-17-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/luks-laminoks-kapi-modeli-18-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/luks-laminoks-kapi-modeli-2-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/luks-laminoks-kapi-modeli-20-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/luks-laminoks-kapi-modeli-21-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/luks-laminoks-kapi-modeli-22-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/luks-laminoks-kapi-modeli-23-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/luks-laminoks-kapi-modeli-24-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/luks-laminoks-kapi-modeli-25-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/luks-laminoks-kapi-modeli-26-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/luks-laminoks-kapi-modeli-27-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/luks-laminoks-kapi-modeli-28-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/luks-laminoks-kapi-modeli-29-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/luks-laminoks-kapi-modeli-3-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/luks-laminoks-kapi-modeli-30-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/luks-laminoks-kapi-modeli-31-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/luks-laminoks-kapi-modeli-32-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/luks-laminoks-kapi-modeli-33-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/luks-laminoks-kapi-modeli-34-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/luks-laminoks-kapi-modeli-35-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/luks-laminoks-kapi-modeli-36-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/luks-laminoks-kapi-modeli-37-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/luks-laminoks-kapi-modeli-38-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/luks-laminoks-kapi-modeli-39-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/luks-laminoks-kapi-modeli-4-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/luks-laminoks-kapi-modeli-40-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/luks-laminoks-kapi-modeli-41-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/luks-laminoks-kapi-modeli-42-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/luks-laminoks-kapi-modeli-43-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/luks-laminoks-kapi-modeli-44-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/luks-laminoks-kapi-modeli-45-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/luks-laminoks-kapi-modeli-46-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/luks-laminoks-kapi-modeli-47-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/luks-laminoks-kapi-modeli-48-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/luks-laminoks-kapi-modeli-49-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/luks-laminoks-kapi-modeli-5-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/luks-laminoks-kapi-modeli-50-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/luks-laminoks-kapi-modeli-51-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/luks-laminoks-kapi-modeli-6-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/luks-laminoks-kapi-modeli-7-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/luks-laminoks-kapi-modeli-8-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/luks-laminoks-kapi-modeli-9-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/luks-pvc-kabartma-celik-kapi-modeli-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/luks-pvc-kabartma-celik-kapi-modeli-10-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/luks-pvc-kabartma-celik-kapi-modeli-2-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/luks-pvc-kabartma-celik-kapi-modeli-5-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/luks-pvc-kabartma-celik-kapi-modeli-6-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/luks-pvc-kabartma-celik-kapi-modeli-7-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/luks-pvc-kabartma-celik-kapi-modeli-9-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/luks-pvc-kabartma-daire-ve-bina-giris-kapisi-yanyana-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/luks-pvc-kabartma-ozel-kollu-daire-giris-kapisi-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/menfezli-kapi-modeli-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/menfezli-kapi-modeli-2-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/menfezli-kapi-modeli-3-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/metal-celik-kapi-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/parlak-siyah-high-gloss-luks-kapi-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/pencreli-kapi-modeli-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/selcuklu-motifli-antrasit-apartman-kapisi-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/selcuklu-motifli-daire-kapisi-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/selcuklu-motifli-is-yeri-kapisi-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/selcuklu-motifli-kapi-modeli-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/siyah-pervazli-agac-desenli-luks-kapi-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/siyah-pervazli-gri-kanatli-kapi-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/tek-acilir-lazerli-aynali-kapi-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/tek-acilir-lazerli-aynali-kapi-2-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/thermo-wood-izolasyonlu-kapi-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/thermo-wood-agac-tan-yapilmis-bina-giris-kapisi-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/uc-acilir-selcuklu-motifli-bina-apartman-kapisi-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/uc-kanatli-beyaz-kapi-selcuklu-motifli-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/ustten-isiklikli-bina-kapisi-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/yangin-cikis-kapisi-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/yavru-kanat-camli-laminoks-celik-kapi-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/yavru-kanatli-camli-bina-giris-kapisi-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/yavru-kanatli-camli-celik-kapi-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/yavru-kanatli-kompozit-celik-kapi-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/yavru-kanatli-laminoks-bina-giris-kapisi-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/yavru-kanatli-lazerli-bina-giris-kapisi-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/yavru-kanatli-kompozit-celik-kapi-2-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/yavru-kanatli-lazer-kesim-camli-celik-kapi-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/yuksek-kapi-1600.webp</image:loc>
+      <image:title>Osmaniye Çelik Kapı Fiyatları | Emin Kapı</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://eminkapiosmaniye.com/rehber/osmaniye-celik-kapi-kilitleri.html</loc>
-    <lastmod>2026-09-21</lastmod>
+    <lastmod>2026-10-06</lastmod>
     <image:image>
       <image:loc>https://eminkapiosmaniye.com/assets/img/products/celik-kilit/01-hafif-multisistem-merkezi-celik-kapi-kilidi.jpg</image:loc>
       <image:title>Osmaniye Çelik Kapı Kilitleri | Emin Kapı</image:title>
@@ -336,7 +1192,7 @@
   </url>
   <url>
     <loc>https://eminkapiosmaniye.com/rehber/osmaniye-en-cok-tercih-edilen-kapi-modelleri.html</loc>
-    <lastmod>2026-09-21</lastmod>
+    <lastmod>2026-10-06</lastmod>
     <image:image>
       <image:loc>https://eminkapiosmaniye.com/assets/img/products/cards/kompozit-panel.webp</image:loc>
       <image:title>Osmaniye En Çok Tercih Edilen Kapı Modelleri | Emin Kapı</image:title>
@@ -452,7 +1308,7 @@
   </url>
   <url>
     <loc>https://eminkapiosmaniye.com/rehber/osmaniye-ev-ic-kapi-modelleri-ve-fiyatlari.html</loc>
-    <lastmod>2026-09-21</lastmod>
+    <lastmod>2026-10-06</lastmod>
     <image:image>
       <image:loc>https://eminkapiosmaniye.com/assets/img/products/cards/melamin-panel.webp</image:loc>
       <image:title>Osmaniye Ev İç Kapı Modelleri ve Fiyatları | Emin Kapı</image:title>
@@ -524,7 +1380,7 @@
   </url>
   <url>
     <loc>https://eminkapiosmaniye.com/rehber/osmaniye-garanti-kosullari.html</loc>
-    <lastmod>2026-09-21</lastmod>
+    <lastmod>2026-10-06</lastmod>
     <image:image>
       <image:loc>https://eminkapiosmaniye.com/assets/img/products/cards/bilgi-fiyat-rehberi.webp</image:loc>
       <image:title>Osmaniye Garanti Koşulları | Emin Kapı</image:title>
@@ -532,7 +1388,7 @@
   </url>
   <url>
     <loc>https://eminkapiosmaniye.com/rehber/osmaniye-kapi-fabrikalari.html</loc>
-    <lastmod>2026-09-21</lastmod>
+    <lastmod>2026-10-06</lastmod>
     <image:image>
       <image:loc>https://eminkapiosmaniye.com/assets/img/emin-kapi-fabrika.png</image:loc>
       <image:title>Osmaniye Kapı Fabrikaları | Emin Kapı</image:title>
@@ -544,7 +1400,7 @@
   </url>
   <url>
     <loc>https://eminkapiosmaniye.com/rehber/osmaniye-lake-ic-kapi-modelleri-ve-fiyatlari.html</loc>
-    <lastmod>2026-09-21</lastmod>
+    <lastmod>2026-10-06</lastmod>
     <image:image>
       <image:loc>https://eminkapiosmaniye.com/assets/img/products/cards/lake-kapi.webp</image:loc>
       <image:title>Osmaniye Lake İç Kapı Modelleri ve Fiyatları | Emin Kapı</image:title>
@@ -592,7 +1448,7 @@
   </url>
   <url>
     <loc>https://eminkapiosmaniye.com/rehber/osmaniye-luks-ic-kapi-modelleri.html</loc>
-    <lastmod>2026-09-21</lastmod>
+    <lastmod>2026-10-06</lastmod>
     <image:image>
       <image:loc>https://eminkapiosmaniye.com/assets/img/products/cards/camli-ic-kapi.webp</image:loc>
       <image:title>Osmaniye Lüks İç Kapı Modelleri | Emin Kapı</image:title>
@@ -616,7 +1472,7 @@
   </url>
   <url>
     <loc>https://eminkapiosmaniye.com/rehber/osmaniye-mutfak-dolabi-fiyatlari.html</loc>
-    <lastmod>2026-09-21</lastmod>
+    <lastmod>2026-10-06</lastmod>
     <image:image>
       <image:loc>https://eminkapiosmaniye.com/assets/img/products/cards/mobilya.webp</image:loc>
       <image:title>Osmaniye Mutfak Dolabı Fiyatları | Emin Kapı</image:title>
@@ -636,7 +1492,7 @@
   </url>
   <url>
     <loc>https://eminkapiosmaniye.com/rehber/osmaniye-oda-kapi-modelleri.html</loc>
-    <lastmod>2026-09-21</lastmod>
+    <lastmod>2026-10-06</lastmod>
     <image:image>
       <image:loc>https://eminkapiosmaniye.com/assets/img/products/cards/amerikan-panel.webp</image:loc>
       <image:title>Osmaniye Oda Kapı Modelleri | Emin Kapı</image:title>
@@ -856,15 +1712,39 @@
   </url>
   <url>
     <loc>https://eminkapiosmaniye.com/rehber/osmaniye-oda-kapisi-fiyatlari.html</loc>
-    <lastmod>2026-09-21</lastmod>
+    <lastmod>2026-10-06</lastmod>
     <image:image>
       <image:loc>https://eminkapiosmaniye.com/assets/img/products/cards/ic-oda-kapisi.webp</image:loc>
       <image:title>Osmaniye Oda Kapısı Fiyatları | Emin Kapı</image:title>
     </image:image>
   </url>
   <url>
+    <loc>https://eminkapiosmaniye.com/rehber/villa-giris-kapisi.html</loc>
+    <lastmod>2026-10-06</lastmod>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/thermo-wood-izolasyonlu-kapi-1600.webp</image:loc>
+      <image:title>Villa Giriş Kapısı: 6 Şık ve Güvenli Model | Osmaniye</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/antrasit-siyah-laminoks-apartman-kapisi-cift-kanatli-1600.webp</image:loc>
+      <image:title>Villa Giriş Kapısı: 6 Şık ve Güvenli Model | Osmaniye</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/cift-kanatli-beyaz-kapi-1600.webp</image:loc>
+      <image:title>Villa Giriş Kapısı: 6 Şık ve Güvenli Model | Osmaniye</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/cift-kanatli-cift-acilir-camli-bina-giris-kapisi-1600.webp</image:loc>
+      <image:title>Villa Giriş Kapısı: 6 Şık ve Güvenli Model | Osmaniye</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/rehber/cift-kanatli/thermo-wood-agac-tan-yapilmis-bina-giris-kapisi-1600.webp</image:loc>
+      <image:title>Villa Giriş Kapısı: 6 Şık ve Güvenli Model | Osmaniye</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://eminkapiosmaniye.com/sikca-sorulan-sorular.html</loc>
-    <lastmod>2026-09-21</lastmod>
+    <lastmod>2026-10-06</lastmod>
     <image:image>
       <image:loc>https://eminkapiosmaniye.com/assets/img/products/cards/bilgi-fiyat-rehberi.webp</image:loc>
       <image:title>Sıkça Sorulan Sorular | Emin Kapı Osmaniye</image:title>
@@ -872,7 +1752,7 @@
   </url>
   <url>
     <loc>https://eminkapiosmaniye.com/urunler/amerikan-panel.html</loc>
-    <lastmod>2026-09-21</lastmod>
+    <lastmod>2026-10-06</lastmod>
     <image:image>
       <image:loc>https://eminkapiosmaniye.com/assets/img/products/cards/amerikan-panel.webp</image:loc>
       <image:title>Osmaniye Amerikan Panel Kapı Üretimi | Emin Kapı</image:title>
@@ -904,7 +1784,7 @@
   </url>
   <url>
     <loc>https://eminkapiosmaniye.com/urunler/banyo-dolabi.html</loc>
-    <lastmod>2026-09-21</lastmod>
+    <lastmod>2026-10-06</lastmod>
     <image:image>
       <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/cards/banyo.webp</image:loc>
       <image:title>Osmaniye Ölçüye Özel Banyo Dolabı | Emin Kapı</image:title>
@@ -1428,7 +2308,7 @@
   </url>
   <url>
     <loc>https://eminkapiosmaniye.com/urunler/celik-kapi.html</loc>
-    <lastmod>2026-09-21</lastmod>
+    <lastmod>2026-10-06</lastmod>
     <image:image>
       <image:loc>https://eminkapiosmaniye.com/assets/img/products/cards/celik-kapi.webp</image:loc>
       <image:title>Osmaniye Çelik Kapı Ürünleri | Emin Kapı</image:title>
@@ -1538,6 +2418,142 @@
       <image:title>Osmaniye Gardırop ve Yatak Odası Dolabı | Emin Kapı</image:title>
     </image:image>
     <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/8-kapili-aynali-gardrop.webp</image:loc>
+      <image:title>Osmaniye Gardırop ve Yatak Odası Dolabı | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/9-kapili-yatak-odasi-gardrop.webp</image:loc>
+      <image:title>Osmaniye Gardırop ve Yatak Odası Dolabı | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/aynali-elbise-dolabi-gardrop.webp</image:loc>
+      <image:title>Osmaniye Gardırop ve Yatak Odası Dolabı | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/aynali-gardrop.webp</image:loc>
+      <image:title>Osmaniye Gardırop ve Yatak Odası Dolabı | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/aynali-gardrop-yatak-odasi-takimi.webp</image:loc>
+      <image:title>Osmaniye Gardırop ve Yatak Odası Dolabı | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/aynasiz-gardrop.webp</image:loc>
+      <image:title>Osmaniye Gardırop ve Yatak Odası Dolabı | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/aynasiz-luks-elbise-dolabi-gardrop.webp</image:loc>
+      <image:title>Osmaniye Gardırop ve Yatak Odası Dolabı | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/beyaz-cerceveli-gold-kulplu-gardrop.webp</image:loc>
+      <image:title>Osmaniye Gardırop ve Yatak Odası Dolabı | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/beyaz-gardrop.webp</image:loc>
+      <image:title>Osmaniye Gardırop ve Yatak Odası Dolabı | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/beyaz-gardrop-lake-boyali.webp</image:loc>
+      <image:title>Osmaniye Gardırop ve Yatak Odası Dolabı | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/beyaz-ikili-gardrop.webp</image:loc>
+      <image:title>Osmaniye Gardırop ve Yatak Odası Dolabı | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/beyaz-luks-gardrop.webp</image:loc>
+      <image:title>Osmaniye Gardırop ve Yatak Odası Dolabı | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/camli-makyaj-unitesi-gardrop.webp</image:loc>
+      <image:title>Osmaniye Gardırop ve Yatak Odası Dolabı | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/citili-duvar-boyu-gardrop.webp</image:loc>
+      <image:title>Osmaniye Gardırop ve Yatak Odası Dolabı | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/duvar-boyu-aynali-citili-gardrop.webp</image:loc>
+      <image:title>Osmaniye Gardırop ve Yatak Odası Dolabı | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/elbise-dolabi-gardrop-yukluk.webp</image:loc>
+      <image:title>Osmaniye Gardırop ve Yatak Odası Dolabı | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/gardrop-elbise-dolabi-villa-mobilyasi.webp</image:loc>
+      <image:title>Osmaniye Gardırop ve Yatak Odası Dolabı | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/gardrop-lake-boyali-gri.webp</image:loc>
+      <image:title>Osmaniye Gardırop ve Yatak Odası Dolabı | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/gardrop-villa-mobilyasi.webp</image:loc>
+      <image:title>Osmaniye Gardırop ve Yatak Odası Dolabı | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/gardrop-yukluk-2.webp</image:loc>
+      <image:title>Osmaniye Gardırop ve Yatak Odası Dolabı | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/gri-citili-gardrop-yukluk.webp</image:loc>
+      <image:title>Osmaniye Gardırop ve Yatak Odası Dolabı | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/gri-oval-aynali-gardrop.webp</image:loc>
+      <image:title>Osmaniye Gardırop ve Yatak Odası Dolabı | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/kapakli-elbise-dolabi-gardrop.webp</image:loc>
+      <image:title>Osmaniye Gardırop ve Yatak Odası Dolabı | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/krem-kulplu-gardrop-yukluk.webp</image:loc>
+      <image:title>Osmaniye Gardırop ve Yatak Odası Dolabı | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/lake-boyali-6-kapili-luks-gardrop-yukluk.webp</image:loc>
+      <image:title>Osmaniye Gardırop ve Yatak Odası Dolabı | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/lake-gardrop-villa-mobilyasi.webp</image:loc>
+      <image:title>Osmaniye Gardırop ve Yatak Odası Dolabı | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/lake-ozel-tasarim-gardrop-villa-mobilyasi.webp</image:loc>
+      <image:title>Osmaniye Gardırop ve Yatak Odası Dolabı | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/led-vitrinli-gold-kulplu-gardrop.webp</image:loc>
+      <image:title>Osmaniye Gardırop ve Yatak Odası Dolabı | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/mavi-citili-gardrop.webp</image:loc>
+      <image:title>Osmaniye Gardırop ve Yatak Odası Dolabı | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/ozel-tasarim-gardrop.webp</image:loc>
+      <image:title>Osmaniye Gardırop ve Yatak Odası Dolabı | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/villa-mobilyasi-gardrop-kitaplik.webp</image:loc>
+      <image:title>Osmaniye Gardırop ve Yatak Odası Dolabı | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/yatak-odasi-gardrop.webp</image:loc>
+      <image:title>Osmaniye Gardırop ve Yatak Odası Dolabı | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/yatak-odasi-gardrop-imalat.webp</image:loc>
+      <image:title>Osmaniye Gardırop ve Yatak Odası Dolabı | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/yatak-odasi-takimi-villa-mobilyasi-gardrop.webp</image:loc>
+      <image:title>Osmaniye Gardırop ve Yatak Odası Dolabı | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
       <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/gardrop-yatak-odasi/aynali-ozel-olcu-gardrop-lake-boyali-min.webp</image:loc>
       <image:title>Osmaniye Gardırop ve Yatak Odası Dolabı | Emin Kapı</image:title>
     </image:image>
@@ -1569,146 +2585,10 @@
       <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/gardrop-yatak-odasi/gardrop-lake-aynali-ozel-olcu-min.webp</image:loc>
       <image:title>Osmaniye Gardırop ve Yatak Odası Dolabı | Emin Kapı</image:title>
     </image:image>
-      <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/8-kapili-aynali-gardrop.webp</image:loc>
-      <image:title>8 kapılı aynalı gardırop</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/9-kapili-yatak-odasi-gardrop.webp</image:loc>
-      <image:title>9 kapılı yatak odası gardırop</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/aynali-elbise-dolabi-gardrop.webp</image:loc>
-      <image:title>Aynalı elbise dolabı gardırop</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/aynali-gardrop.webp</image:loc>
-      <image:title>Aynalı gardırop</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/aynali-gardrop-yatak-odasi-takimi.webp</image:loc>
-      <image:title>Aynalı gardırop yatak odası takımı</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/aynasiz-gardrop.webp</image:loc>
-      <image:title>Aynasız gardırop</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/aynasiz-luks-elbise-dolabi-gardrop.webp</image:loc>
-      <image:title>Aynasız lüks elbise dolabı gardırop</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/beyaz-cerceveli-gold-kulplu-gardrop.webp</image:loc>
-      <image:title>Beyaz çerçeveli gold kulplu gardırop</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/beyaz-gardrop.webp</image:loc>
-      <image:title>Beyaz gardırop</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/beyaz-gardrop-lake-boyali.webp</image:loc>
-      <image:title>Beyaz gardırop lake boyalı</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/beyaz-ikili-gardrop.webp</image:loc>
-      <image:title>Beyaz ikili gardırop</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/beyaz-luks-gardrop.webp</image:loc>
-      <image:title>Beyaz lüks gardırop</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/camli-makyaj-unitesi-gardrop.webp</image:loc>
-      <image:title>Camlı kapaklı makyaj üniteli gardırop</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/citili-duvar-boyu-gardrop.webp</image:loc>
-      <image:title>Çıtalı duvar boyu gardırop</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/duvar-boyu-aynali-citili-gardrop.webp</image:loc>
-      <image:title>Duvar boyu aynalı çıtalı gardırop</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/elbise-dolabi-gardrop-yukluk.webp</image:loc>
-      <image:title>Elbise dolabı gardırop yüklük</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/gardrop-elbise-dolabi-villa-mobilyasi.webp</image:loc>
-      <image:title>Gardırop elbise dolabı villa mobilyası</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/gardrop-lake-boyali-gri.webp</image:loc>
-      <image:title>Gardırop lake boyalı gri</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/gardrop-villa-mobilyasi.webp</image:loc>
-      <image:title>Gardırop villa mobilyası</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/gardrop-yukluk-2.webp</image:loc>
-      <image:title>Gardırop yüklük 2</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/gri-citili-gardrop-yukluk.webp</image:loc>
-      <image:title>Gri çıtalı gardırop yüklük</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/gri-oval-aynali-gardrop.webp</image:loc>
-      <image:title>Gri oval aynalı çıtalı gardırop</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/kapakli-elbise-dolabi-gardrop.webp</image:loc>
-      <image:title>Kapakli elbise dolabı gardırop</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/krem-kulplu-gardrop-yukluk.webp</image:loc>
-      <image:title>Krem kulplu gardırop yüklük</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/lake-boyali-6-kapili-luks-gardrop-yukluk.webp</image:loc>
-      <image:title>Lake boyalı 6 kapılı lüks gardırop yüklük</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/lake-gardrop-villa-mobilyasi.webp</image:loc>
-      <image:title>Lake gardırop villa mobilyası</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/lake-ozel-tasarim-gardrop-villa-mobilyasi.webp</image:loc>
-      <image:title>Lake özel tasarım gardırop villa mobilyası</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/led-vitrinli-gold-kulplu-gardrop.webp</image:loc>
-      <image:title>LED vitrinli gold kulplu gardırop</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/mavi-citili-gardrop.webp</image:loc>
-      <image:title>Mavi çıtalı oval kapaklı gardırop</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/ozel-tasarim-gardrop.webp</image:loc>
-      <image:title>Özel tasarım gardırop</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/villa-mobilyasi-gardrop-kitaplik.webp</image:loc>
-      <image:title>Villa mobilyası gardırop kitaplık</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/yatak-odasi-gardrop.webp</image:loc>
-      <image:title>Yatak odası gardırop</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/yatak-odasi-gardrop-imalat.webp</image:loc>
-      <image:title>Yatak odası gardırop imalat</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/yatak-odasi-takimi-villa-mobilyasi-gardrop.webp</image:loc>
-      <image:title>Yatak odası takımı villa mobilyası gardırop</image:title>
-    </image:image>
   </url>
   <url>
     <loc>https://eminkapiosmaniye.com/urunler/ic-oda-kapisi.html</loc>
-    <lastmod>2026-09-21</lastmod>
+    <lastmod>2026-10-06</lastmod>
     <image:image>
       <image:loc>https://eminkapiosmaniye.com/assets/img/products/cards/ic-oda-kapisi.webp</image:loc>
       <image:title>Osmaniye MDF İç Kapı Modelleri | Emin Kapı</image:title>
@@ -1732,7 +2612,7 @@
   </url>
   <url>
     <loc>https://eminkapiosmaniye.com/urunler/</loc>
-    <lastmod>2026-09-21</lastmod>
+    <lastmod>2026-10-06</lastmod>
     <image:image>
       <image:loc>https://eminkapiosmaniye.com/assets/img/products/cards/ic-oda-kapisi.webp</image:loc>
       <image:title>Osmaniye Ürünleri: Kapı, PVC, Mobilya, Parke | Emin Kapı</image:title>
@@ -1804,7 +2684,7 @@
   </url>
   <url>
     <loc>https://eminkapiosmaniye.com/urunler/kompozit-panel.html</loc>
-    <lastmod>2026-09-21</lastmod>
+    <lastmod>2026-10-06</lastmod>
     <image:image>
       <image:loc>https://eminkapiosmaniye.com/assets/img/products/cards/kompozit-panel.webp</image:loc>
       <image:title>Osmaniye Kompozit Panel Kapı | Emin Kapı</image:title>
@@ -1836,7 +2716,7 @@
   </url>
   <url>
     <loc>https://eminkapiosmaniye.com/urunler/lake-kapi.html</loc>
-    <lastmod>2026-09-21</lastmod>
+    <lastmod>2026-10-06</lastmod>
     <image:image>
       <image:loc>https://eminkapiosmaniye.com/assets/img/products/cards/lake-kapi.webp</image:loc>
       <image:title>Osmaniye Lake İç Oda Kapıları | Emin Kapı</image:title>
@@ -1972,7 +2852,7 @@
   </url>
   <url>
     <loc>https://eminkapiosmaniye.com/urunler/laminant-parke.html</loc>
-    <lastmod>2026-09-21</lastmod>
+    <lastmod>2026-10-06</lastmod>
     <image:image>
       <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/cards/parke.webp</image:loc>
       <image:title>Osmaniye Laminant Parke — AGT Parke Modelleri | Emin Kapı</image:title>
@@ -2016,7 +2896,7 @@
   </url>
   <url>
     <loc>https://eminkapiosmaniye.com/urunler/melamin-panel.html</loc>
-    <lastmod>2026-09-21</lastmod>
+    <lastmod>2026-10-06</lastmod>
     <image:image>
       <image:loc>https://eminkapiosmaniye.com/assets/img/products/cards/melamin-panel.webp</image:loc>
       <image:title>Osmaniye Melamin Panel Kapı | Emin Kapı</image:title>
@@ -2048,7 +2928,7 @@
   </url>
   <url>
     <loc>https://eminkapiosmaniye.com/urunler/mobilya.html</loc>
-    <lastmod>2026-09-21</lastmod>
+    <lastmod>2026-10-06</lastmod>
     <image:image>
       <image:loc>https://eminkapiosmaniye.com/assets/img/products/cards/mobilya.webp</image:loc>
       <image:title>Osmaniye Mobilya: Mutfak, Gardırop, Vestiyer | Emin Kapı</image:title>
@@ -2086,6 +2966,114 @@
       <image:title>Osmaniye Mutfak Dolabı İmalatı | Emin Kapı</image:title>
     </image:image>
     <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/amerikan-tarzi-mutfak-dolabi.webp</image:loc>
+      <image:title>Osmaniye Mutfak Dolabı İmalatı | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/gri-citili-camli-mutfak-dolabi.webp</image:loc>
+      <image:title>Osmaniye Mutfak Dolabı İmalatı | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/gri-lake-boyali-mutfak-tezgahi-villa-mobilyasi.webp</image:loc>
+      <image:title>Osmaniye Mutfak Dolabı İmalatı | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/kiler-mutfak-dolabi.webp</image:loc>
+      <image:title>Osmaniye Mutfak Dolabı İmalatı | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/krem-camli-mutfak-dolabi.webp</image:loc>
+      <image:title>Osmaniye Mutfak Dolabı İmalatı | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/krem-gold-kulplu-mutfak-dolabi.webp</image:loc>
+      <image:title>Osmaniye Mutfak Dolabı İmalatı | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/l-gri-camli-mutfak-dolabi.webp</image:loc>
+      <image:title>Osmaniye Mutfak Dolabı İmalatı | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/l-mutfak-dolabi-pencere-ustu.webp</image:loc>
+      <image:title>Osmaniye Mutfak Dolabı İmalatı | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/lake-mutfak-dolabi.webp</image:loc>
+      <image:title>Osmaniye Mutfak Dolabı İmalatı | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/led-isikli-mutfak-dolabi.webp</image:loc>
+      <image:title>Osmaniye Mutfak Dolabı İmalatı | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/luks-camli-mutfak-tezgahi-ozel-uretim.webp</image:loc>
+      <image:title>Osmaniye Mutfak Dolabı İmalatı | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/luks-mutfak-dolaplari.webp</image:loc>
+      <image:title>Osmaniye Mutfak Dolabı İmalatı | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/luks-mutfak-tezgahlari.webp</image:loc>
+      <image:title>Osmaniye Mutfak Dolabı İmalatı | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/mutfak-dolabi.webp</image:loc>
+      <image:title>Osmaniye Mutfak Dolabı İmalatı | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/mutfak-dolabi-villa-mobilyasi.webp</image:loc>
+      <image:title>Osmaniye Mutfak Dolabı İmalatı | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/mutfak-lake.webp</image:loc>
+      <image:title>Osmaniye Mutfak Dolabı İmalatı | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/mutfak-lake-dolaplari.webp</image:loc>
+      <image:title>Osmaniye Mutfak Dolabı İmalatı | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/mutfak-lake-villa-mobilyasi.webp</image:loc>
+      <image:title>Osmaniye Mutfak Dolabı İmalatı | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/mutfak-lake-villa-mobilyasi-2.webp</image:loc>
+      <image:title>Osmaniye Mutfak Dolabı İmalatı | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/mutfak-lake-villa-mobilyasi-3.webp</image:loc>
+      <image:title>Osmaniye Mutfak Dolabı İmalatı | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/mutfak-tezgahi.webp</image:loc>
+      <image:title>Osmaniye Mutfak Dolabı İmalatı | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/mutfak-tezgahi-gri-lake-boyali.webp</image:loc>
+      <image:title>Osmaniye Mutfak Dolabı İmalatı | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/mutfak-villa-mobilyasi.webp</image:loc>
+      <image:title>Osmaniye Mutfak Dolabı İmalatı | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/ozel-tasarim-mutfak-dolabi.webp</image:loc>
+      <image:title>Osmaniye Mutfak Dolabı İmalatı | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/parlak-mutfak-tezgahi.webp</image:loc>
+      <image:title>Osmaniye Mutfak Dolabı İmalatı | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/pvc-mutfak-dolabi.webp</image:loc>
+      <image:title>Osmaniye Mutfak Dolabı İmalatı | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/spot-isikli-mutfak-tezgahi.webp</image:loc>
+      <image:title>Osmaniye Mutfak Dolabı İmalatı | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
       <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/mutfak-dolabi/lake-cnc-mutfak.webp</image:loc>
       <image:title>Osmaniye Mutfak Dolabı İmalatı | Emin Kapı</image:title>
     </image:image>
@@ -2105,118 +3093,10 @@
       <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/villa-mobilyasi/akrilik-mutfak-dolabi-min.webp</image:loc>
       <image:title>Osmaniye Mutfak Dolabı İmalatı | Emin Kapı</image:title>
     </image:image>
-      <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/amerikan-tarzi-mutfak-dolabi.webp</image:loc>
-      <image:title>Amerikan tarzı ada tezgahlı mutfak dolabı</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/gri-citili-camli-mutfak-dolabi.webp</image:loc>
-      <image:title>Gri çıtalı camlı mutfak dolabı</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/gri-lake-boyali-mutfak-tezgahi-villa-mobilyasi.webp</image:loc>
-      <image:title>Gri lake boyalı mutfak tezgahı villa mobilyası</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/kiler-mutfak-dolabi.webp</image:loc>
-      <image:title>Kiler mutfak dolabı</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/krem-camli-mutfak-dolabi.webp</image:loc>
-      <image:title>Krem camlı mutfak dolabı</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/krem-gold-kulplu-mutfak-dolabi.webp</image:loc>
-      <image:title>Krem gold kulplu mutfak dolabı</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/l-gri-camli-mutfak-dolabi.webp</image:loc>
-      <image:title>L biçimli gri camlı mutfak dolabı</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/l-mutfak-dolabi-pencere-ustu.webp</image:loc>
-      <image:title>Pencere üstü L mutfak dolabı</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/lake-mutfak-dolabi.webp</image:loc>
-      <image:title>Lake mutfak dolabı</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/led-isikli-mutfak-dolabi.webp</image:loc>
-      <image:title>LED ışıklı mutfak dolabı</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/luks-camli-mutfak-tezgahi-ozel-uretim.webp</image:loc>
-      <image:title>Lüks camlı mutfak tezgahı ozel uretim</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/luks-mutfak-dolaplari.webp</image:loc>
-      <image:title>Lüks mutfak dolapları</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/luks-mutfak-tezgahlari.webp</image:loc>
-      <image:title>Lüks mutfak tezgahları</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/mutfak-dolabi.webp</image:loc>
-      <image:title>Mutfak dolabı</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/mutfak-dolabi-villa-mobilyasi.webp</image:loc>
-      <image:title>Mutfak dolabı villa mobilyası</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/mutfak-lake.webp</image:loc>
-      <image:title>Mutfak lake</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/mutfak-lake-dolaplari.webp</image:loc>
-      <image:title>Mutfak lake dolapları</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/mutfak-lake-villa-mobilyasi.webp</image:loc>
-      <image:title>Mutfak lake villa mobilyası</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/mutfak-lake-villa-mobilyasi-2.webp</image:loc>
-      <image:title>Mutfak lake villa mobilyası 2</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/mutfak-lake-villa-mobilyasi-3.webp</image:loc>
-      <image:title>Mutfak lake villa mobilyası 3</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/mutfak-tezgahi.webp</image:loc>
-      <image:title>Mutfak tezgahı</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/mutfak-tezgahi-gri-lake-boyali.webp</image:loc>
-      <image:title>Mutfak tezgahı gri lake boyalı</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/mutfak-villa-mobilyasi.webp</image:loc>
-      <image:title>Mutfak villa mobilyası</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/ozel-tasarim-mutfak-dolabi.webp</image:loc>
-      <image:title>Özel tasarım mutfak dolabı</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/parlak-mutfak-tezgahi.webp</image:loc>
-      <image:title>Parlak mutfak tezgahı</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/pvc-mutfak-dolabi.webp</image:loc>
-      <image:title>PVC mutfak dolabı</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/spot-isikli-mutfak-tezgahi.webp</image:loc>
-      <image:title>Spot ışıklı mutfak tezgahı</image:title>
-    </image:image>
   </url>
   <url>
     <loc>https://eminkapiosmaniye.com/urunler/portmanto.html</loc>
-    <lastmod>2026-09-21</lastmod>
+    <lastmod>2026-10-06</lastmod>
     <image:image>
       <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/cards/portmanto.webp</image:loc>
       <image:title>Osmaniye Ölçüye Özel Portmanto Modelleri | Emin Kapı</image:title>
@@ -2224,7 +3104,7 @@
   </url>
   <url>
     <loc>https://eminkapiosmaniye.com/urunler/pvc-kapi-pencere.html</loc>
-    <lastmod>2026-09-21</lastmod>
+    <lastmod>2026-10-06</lastmod>
     <image:image>
       <image:loc>https://eminkapiosmaniye.com/assets/img/products/pvc/pvc-agac-desenli-kapi.webp</image:loc>
       <image:title>Osmaniye PVC Kapı ve Pencere Sistemleri | Emin Kapı</image:title>
@@ -2254,6 +3134,30 @@
       <image:title>Osmaniye Ölçüye Özel Vestiyer Modelleri | Emin Kapı</image:title>
     </image:image>
     <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/aynali-vestiyer.webp</image:loc>
+      <image:title>Osmaniye Ölçüye Özel Vestiyer Modelleri | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/beyaz-cerceveli-vestiyer.webp</image:loc>
+      <image:title>Osmaniye Ölçüye Özel Vestiyer Modelleri | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/camli-rafli-vestiyer.webp</image:loc>
+      <image:title>Osmaniye Ölçüye Özel Vestiyer Modelleri | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/geometrik-camli-vestiyer.webp</image:loc>
+      <image:title>Osmaniye Ölçüye Özel Vestiyer Modelleri | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/vestiyer-villa-mobilyasi.webp</image:loc>
+      <image:title>Osmaniye Ölçüye Özel Vestiyer Modelleri | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/villa-mobilyasi-vestiyer.webp</image:loc>
+      <image:title>Osmaniye Ölçüye Özel Vestiyer Modelleri | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
       <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/vestiyer/lake-vestiyer-kapali-min.webp</image:loc>
       <image:title>Osmaniye Ölçüye Özel Vestiyer Modelleri | Emin Kapı</image:title>
     </image:image>
@@ -2261,36 +3165,88 @@
       <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/vestiyer/lake-vestiyer-min-768x1542.webp</image:loc>
       <image:title>Osmaniye Ölçüye Özel Vestiyer Modelleri | Emin Kapı</image:title>
     </image:image>
-      <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/aynali-vestiyer.webp</image:loc>
-      <image:title>Aynalı vestiyer</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/beyaz-cerceveli-vestiyer.webp</image:loc>
-      <image:title>Beyaz çerçeveli antre vestiyeri</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/camli-rafli-vestiyer.webp</image:loc>
-      <image:title>Camlı raflı vestiyer</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/geometrik-camli-vestiyer.webp</image:loc>
-      <image:title>Geometrik camlı aynalı vestiyer</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/vestiyer-villa-mobilyasi.webp</image:loc>
-      <image:title>Vestiyer villa mobilyası</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/villa-mobilyasi-vestiyer.webp</image:loc>
-      <image:title>Villa mobilyası vestiyer</image:title>
-    </image:image>
   </url>
   <url>
     <loc>https://eminkapiosmaniye.com/urunler/villa-mobilyasi.html</loc>
     <lastmod>2026-10-06</lastmod>
     <image:image>
       <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/cards/villa.webp</image:loc>
+      <image:title>Osmaniye Villa Mobilyaları İmalatı | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/gri-lake-boyali-mutfak-tezgahi-villa-mobilyasi.webp</image:loc>
+      <image:title>Osmaniye Villa Mobilyaları İmalatı | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/mutfak-dolabi-villa-mobilyasi.webp</image:loc>
+      <image:title>Osmaniye Villa Mobilyaları İmalatı | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/mutfak-lake-villa-mobilyasi.webp</image:loc>
+      <image:title>Osmaniye Villa Mobilyaları İmalatı | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/mutfak-lake-villa-mobilyasi-2.webp</image:loc>
+      <image:title>Osmaniye Villa Mobilyaları İmalatı | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/mutfak-lake-villa-mobilyasi-3.webp</image:loc>
+      <image:title>Osmaniye Villa Mobilyaları İmalatı | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/mutfak-villa-mobilyasi.webp</image:loc>
+      <image:title>Osmaniye Villa Mobilyaları İmalatı | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/gardrop-elbise-dolabi-villa-mobilyasi.webp</image:loc>
+      <image:title>Osmaniye Villa Mobilyaları İmalatı | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/gardrop-villa-mobilyasi.webp</image:loc>
+      <image:title>Osmaniye Villa Mobilyaları İmalatı | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/lake-gardrop-villa-mobilyasi.webp</image:loc>
+      <image:title>Osmaniye Villa Mobilyaları İmalatı | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/lake-ozel-tasarim-gardrop-villa-mobilyasi.webp</image:loc>
+      <image:title>Osmaniye Villa Mobilyaları İmalatı | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/villa-mobilyasi-gardrop-kitaplik.webp</image:loc>
+      <image:title>Osmaniye Villa Mobilyaları İmalatı | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/yatak-odasi-takimi-villa-mobilyasi-gardrop.webp</image:loc>
+      <image:title>Osmaniye Villa Mobilyaları İmalatı | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/vestiyer-villa-mobilyasi.webp</image:loc>
+      <image:title>Osmaniye Villa Mobilyaları İmalatı | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/villa-mobilyasi-vestiyer.webp</image:loc>
+      <image:title>Osmaniye Villa Mobilyaları İmalatı | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/tv-unitesi-citili-panel-villa-mobilyasi.webp</image:loc>
+      <image:title>Osmaniye Villa Mobilyaları İmalatı | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/tv-unitesi-villa-mobilyasi.webp</image:loc>
+      <image:title>Osmaniye Villa Mobilyaları İmalatı | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/tv-unitesi-villa-mobilyasi-3.webp</image:loc>
+      <image:title>Osmaniye Villa Mobilyaları İmalatı | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/tv-unitesi-villa-mobilyasi-5.webp</image:loc>
+      <image:title>Osmaniye Villa Mobilyaları İmalatı | Emin Kapı</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/villa-mobilyasi-tv-unitesi.webp</image:loc>
       <image:title>Osmaniye Villa Mobilyaları İmalatı | Emin Kapı</image:title>
     </image:image>
     <image:image>
@@ -2312,82 +3268,6 @@
     <image:image>
       <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/villa-mobilyasi/osmaniye_mutfak_dolabi.webp</image:loc>
       <image:title>Osmaniye Villa Mobilyaları İmalatı | Emin Kapı</image:title>
-    </image:image>
-      <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/gri-lake-boyali-mutfak-tezgahi-villa-mobilyasi.webp</image:loc>
-      <image:title>Gri lake boyalı mutfak tezgahı villa mobilyası</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/mutfak-dolabi-villa-mobilyasi.webp</image:loc>
-      <image:title>Mutfak dolabı villa mobilyası</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/mutfak-lake-villa-mobilyasi.webp</image:loc>
-      <image:title>Mutfak lake villa mobilyası</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/mutfak-lake-villa-mobilyasi-2.webp</image:loc>
-      <image:title>Mutfak lake villa mobilyası 2</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/mutfak-lake-villa-mobilyasi-3.webp</image:loc>
-      <image:title>Mutfak lake villa mobilyası 3</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/mutfak-villa-mobilyasi.webp</image:loc>
-      <image:title>Mutfak villa mobilyası</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/gardrop-elbise-dolabi-villa-mobilyasi.webp</image:loc>
-      <image:title>Gardırop elbise dolabı villa mobilyası</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/gardrop-villa-mobilyasi.webp</image:loc>
-      <image:title>Gardırop villa mobilyası</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/lake-gardrop-villa-mobilyasi.webp</image:loc>
-      <image:title>Lake gardırop villa mobilyası</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/lake-ozel-tasarim-gardrop-villa-mobilyasi.webp</image:loc>
-      <image:title>Lake özel tasarım gardırop villa mobilyası</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/villa-mobilyasi-gardrop-kitaplik.webp</image:loc>
-      <image:title>Villa mobilyası gardırop kitaplık</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/yatak-odasi-takimi-villa-mobilyasi-gardrop.webp</image:loc>
-      <image:title>Yatak odası takımı villa mobilyası gardırop</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/vestiyer-villa-mobilyasi.webp</image:loc>
-      <image:title>Vestiyer villa mobilyası</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/villa-mobilyasi-vestiyer.webp</image:loc>
-      <image:title>Villa mobilyası vestiyer</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/tv-unitesi-citili-panel-villa-mobilyasi.webp</image:loc>
-      <image:title>Çıtalı panelli TV ünitesi</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/tv-unitesi-villa-mobilyasi.webp</image:loc>
-      <image:title>TV ünitesi villa mobilyası</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/tv-unitesi-villa-mobilyasi-3.webp</image:loc>
-      <image:title>TV ünitesi villa mobilyası 3</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/tv-unitesi-villa-mobilyasi-5.webp</image:loc>
-      <image:title>TV ünitesi villa mobilyası 5</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://eminkapiosmaniye.com/assets/img/products/mobilya/uygulamalar/villa-mobilyasi-tv-unitesi.webp</image:loc>
-      <image:title>Villa mobilyası TV ünitesi</image:title>
     </image:image>
   </url>
 </urlset>

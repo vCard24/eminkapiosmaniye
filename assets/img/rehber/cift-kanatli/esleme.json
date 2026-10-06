@@ -1,0 +1,3437 @@
+[
+  {
+    "original": "antrasit-renkli-kapi.jfif",
+    "slug": "antrasit-renkli-kapi",
+    "pages": [
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      720,
+      1600
+    ],
+    "original_bytes": 91289,
+    "large": "antrasit-renkli-kapi-1600.webp",
+    "large_px": [
+      720,
+      1600
+    ],
+    "large_bytes": 52048,
+    "large_q": 80,
+    "small": "antrasit-renkli-kapi-800.webp",
+    "small_px": [
+      360,
+      800
+    ],
+    "small_bytes": 19812,
+    "small_q": 80
+  },
+  {
+    "original": "antrasit-siyah-laminoks-apartan-kapisi-cift-kanatli.jfif",
+    "slug": "antrasit-siyah-laminoks-apartman-kapisi-cift-kanatli",
+    "pages": [
+      "bina-giris-kapisi",
+      "apartman-kapisi",
+      "villa-giris-kapisi",
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      1080,
+      1391
+    ],
+    "original_bytes": 101592,
+    "large": "antrasit-siyah-laminoks-apartman-kapisi-cift-kanatli-1600.webp",
+    "large_px": [
+      1080,
+      1391
+    ],
+    "large_bytes": 54710,
+    "large_q": 80,
+    "small": "antrasit-siyah-laminoks-apartman-kapisi-cift-kanatli-800.webp",
+    "small_px": [
+      621,
+      800
+    ],
+    "small_bytes": 21360,
+    "small_q": 80
+  },
+  {
+    "original": "antrasit-siyah-laminoks-daire-kapisi-tek-kanatli.jfif",
+    "slug": "antrasit-siyah-laminoks-daire-kapisi-tek-kanatli",
+    "pages": [
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      1080,
+      1440
+    ],
+    "original_bytes": 70882,
+    "large": "antrasit-siyah-laminoks-daire-kapisi-tek-kanatli-1600.webp",
+    "large_px": [
+      1080,
+      1440
+    ],
+    "large_bytes": 32952,
+    "large_q": 80,
+    "small": "antrasit-siyah-laminoks-daire-kapisi-tek-kanatli-800.webp",
+    "small_px": [
+      600,
+      800
+    ],
+    "small_bytes": 13104,
+    "small_q": 80
+  },
+  {
+    "original": "apartaman-giris-buyuk-kapi.jfif",
+    "slug": "apartman-giris-buyuk-kapi",
+    "pages": [
+      "apartman-kapisi",
+      "bina-giris-kapisi",
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      720,
+      1600
+    ],
+    "original_bytes": 106182,
+    "large": "apartman-giris-buyuk-kapi-1600.webp",
+    "large_px": [
+      720,
+      1600
+    ],
+    "large_bytes": 67156,
+    "large_q": 80,
+    "small": "apartman-giris-buyuk-kapi-800.webp",
+    "small_px": [
+      360,
+      800
+    ],
+    "small_bytes": 22966,
+    "small_q": 80
+  },
+  {
+    "original": "apartman-giris-siyah-camli-kapi.jfif",
+    "slug": "apartman-giris-siyah-camli-kapi",
+    "pages": [
+      "camli-bina-kapisi",
+      "apartman-kapisi",
+      "bina-giris-kapisi",
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      1080,
+      1439
+    ],
+    "original_bytes": 101700,
+    "large": "apartman-giris-siyah-camli-kapi-1600.webp",
+    "large_px": [
+      1080,
+      1439
+    ],
+    "large_bytes": 55442,
+    "large_q": 80,
+    "small": "apartman-giris-siyah-camli-kapi-800.webp",
+    "small_px": [
+      600,
+      800
+    ],
+    "small_bytes": 27122,
+    "small_q": 80
+  },
+  {
+    "original": "ayna-camli-laminoks-apartman-kapisi.jfif",
+    "slug": "ayna-camli-laminoks-apartman-kapisi",
+    "pages": [
+      "camli-bina-kapisi",
+      "apartman-kapisi",
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      1080,
+      1458
+    ],
+    "original_bytes": 152472,
+    "large": "ayna-camli-laminoks-apartman-kapisi-1600.webp",
+    "large_px": [
+      1080,
+      1458
+    ],
+    "large_bytes": 94912,
+    "large_q": 80,
+    "small": "ayna-camli-laminoks-apartman-kapisi-800.webp",
+    "small_px": [
+      592,
+      800
+    ],
+    "small_bytes": 45822,
+    "small_q": 80
+  },
+  {
+    "original": "aynacamli-bina-kapisi.jfif",
+    "slug": "aynacamli-bina-kapisi",
+    "pages": [
+      "camli-bina-kapisi",
+      "bina-giris-kapisi",
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      1204,
+      1600
+    ],
+    "original_bytes": 252397,
+    "large": "aynacamli-bina-kapisi-1600.webp",
+    "large_px": [
+      1204,
+      1600
+    ],
+    "large_bytes": 175840,
+    "large_q": 80,
+    "small": "aynacamli-bina-kapisi-800.webp",
+    "small_px": [
+      602,
+      800
+    ],
+    "small_bytes": 56736,
+    "small_q": 80
+  },
+  {
+    "original": "aynali-yavru-kanatli-kompozit-bina-giris-kapisi.jfif",
+    "slug": "aynali-yavru-kanatli-kompozit-bina-giris-kapisi",
+    "pages": [
+      "camli-bina-kapisi",
+      "bina-giris-kapisi",
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      1206,
+      2622
+    ],
+    "original_bytes": 244760,
+    "large": "aynali-yavru-kanatli-kompozit-bina-giris-kapisi-1600.webp",
+    "large_px": [
+      735,
+      1600
+    ],
+    "large_bytes": 75656,
+    "large_q": 80,
+    "small": "aynali-yavru-kanatli-kompozit-bina-giris-kapisi-800.webp",
+    "small_px": [
+      367,
+      800
+    ],
+    "small_bytes": 21988,
+    "small_q": 80
+  },
+  {
+    "original": "beyaz-kapi-modeli-selcuklu-motifi.jfif",
+    "slug": "beyaz-kapi-modeli-selcuklu-motifi",
+    "pages": [
+      "beyaz-renkli-kapi",
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      720,
+      1600
+    ],
+    "original_bytes": 79112,
+    "large": "beyaz-kapi-modeli-selcuklu-motifi-1600.webp",
+    "large_px": [
+      720,
+      1600
+    ],
+    "large_bytes": 45272,
+    "large_q": 80,
+    "small": "beyaz-kapi-modeli-selcuklu-motifi-800.webp",
+    "small_px": [
+      360,
+      800
+    ],
+    "small_bytes": 17806,
+    "small_q": 80
+  },
+  {
+    "original": "bina-kapisi-icten-gorunum.jfif",
+    "slug": "bina-kapisi-icten-gorunum",
+    "pages": [
+      "bina-giris-kapisi",
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      720,
+      1200
+    ],
+    "original_bytes": 63244,
+    "large": "bina-kapisi-icten-gorunum-1600.webp",
+    "large_px": [
+      720,
+      1200
+    ],
+    "large_bytes": 36386,
+    "large_q": 80,
+    "small": "bina-kapisi-icten-gorunum-800.webp",
+    "small_px": [
+      480,
+      800
+    ],
+    "small_bytes": 21100,
+    "small_q": 80
+  },
+  {
+    "original": "buyuk-kapi-modeli.jfif",
+    "slug": "buyuk-kapi-modeli",
+    "pages": [
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      1080,
+      824
+    ],
+    "original_bytes": 90314,
+    "large": "buyuk-kapi-modeli-1600.webp",
+    "large_px": [
+      1080,
+      824
+    ],
+    "large_bytes": 53722,
+    "large_q": 80,
+    "small": "buyuk-kapi-modeli-800.webp",
+    "small_px": [
+      800,
+      610
+    ],
+    "small_bytes": 37934,
+    "small_q": 80
+  },
+  {
+    "original": "cift-acilir-daire-kapisi.jfif",
+    "slug": "cift-acilir-daire-kapisi",
+    "pages": [
+      "bina-giris-kapisi",
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      899,
+      1599
+    ],
+    "original_bytes": 51035,
+    "large": "cift-acilir-daire-kapisi-1600.webp",
+    "large_px": [
+      899,
+      1599
+    ],
+    "large_bytes": 21868,
+    "large_q": 80,
+    "small": "cift-acilir-daire-kapisi-800.webp",
+    "small_px": [
+      449,
+      800
+    ],
+    "small_bytes": 8912,
+    "small_q": 80
+  },
+  {
+    "original": "cift-acilir-kompozit-metal-kapi.jfif",
+    "slug": "cift-acilir-kompozit-metal-kapi",
+    "pages": [
+      "bina-giris-kapisi",
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      900,
+      2000
+    ],
+    "original_bytes": 211515,
+    "large": "cift-acilir-kompozit-metal-kapi-1600.webp",
+    "large_px": [
+      720,
+      1600
+    ],
+    "large_bytes": 112590,
+    "large_q": 80,
+    "small": "cift-acilir-kompozit-metal-kapi-800.webp",
+    "small_px": [
+      360,
+      800
+    ],
+    "small_bytes": 32224,
+    "small_q": 80
+  },
+  {
+    "original": "cift-acilir-lazer-kesim-ayna-camli-giris-kapisi.jfif",
+    "slug": "cift-acilir-lazer-kesim-ayna-camli-giris-kapisi",
+    "pages": [
+      "camli-bina-kapisi",
+      "bina-giris-kapisi",
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      1204,
+      1600
+    ],
+    "original_bytes": 241249,
+    "large": "cift-acilir-lazer-kesim-ayna-camli-giris-kapisi-1600.webp",
+    "large_px": [
+      1204,
+      1600
+    ],
+    "large_bytes": 159170,
+    "large_q": 80,
+    "small": "cift-acilir-lazer-kesim-ayna-camli-giris-kapisi-800.webp",
+    "small_px": [
+      602,
+      800
+    ],
+    "small_bytes": 54378,
+    "small_q": 80
+  },
+  {
+    "original": "cift-kanatli-beyaz-kapi.jfif",
+    "slug": "cift-kanatli-beyaz-kapi",
+    "pages": [
+      "bina-giris-kapisi",
+      "apartman-kapisi",
+      "villa-giris-kapisi",
+      "beyaz-renkli-kapi",
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      1080,
+      1180
+    ],
+    "original_bytes": 112593,
+    "large": "cift-kanatli-beyaz-kapi-1600.webp",
+    "large_px": [
+      1080,
+      1180
+    ],
+    "large_bytes": 74626,
+    "large_q": 80,
+    "small": "cift-kanatli-beyaz-kapi-800.webp",
+    "small_px": [
+      732,
+      800
+    ],
+    "small_bytes": 46366,
+    "small_q": 80
+  },
+  {
+    "original": "cift-kanatli-cift-acilir-camli-bina-giris-kapisi.jfif",
+    "slug": "cift-kanatli-cift-acilir-camli-bina-giris-kapisi",
+    "pages": [
+      "bina-giris-kapisi",
+      "apartman-kapisi",
+      "villa-giris-kapisi",
+      "camli-bina-kapisi",
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      1204,
+      1600
+    ],
+    "original_bytes": 169926,
+    "large": "cift-kanatli-cift-acilir-camli-bina-giris-kapisi-1600.webp",
+    "large_px": [
+      1204,
+      1600
+    ],
+    "large_bytes": 100016,
+    "large_q": 80,
+    "small": "cift-kanatli-cift-acilir-camli-bina-giris-kapisi-800.webp",
+    "small_px": [
+      602,
+      800
+    ],
+    "small_bytes": 31840,
+    "small_q": 80
+  },
+  {
+    "original": "cift-sabit-orta-acilir-lazerli-bina-kapisi.jfif",
+    "slug": "cift-sabit-orta-acilir-lazerli-bina-kapisi",
+    "pages": [
+      "bina-giris-kapisi",
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      1080,
+      1286
+    ],
+    "original_bytes": 133688,
+    "large": "cift-sabit-orta-acilir-lazerli-bina-kapisi-1600.webp",
+    "large_px": [
+      1080,
+      1286
+    ],
+    "large_bytes": 71898,
+    "large_q": 80,
+    "small": "cift-sabit-orta-acilir-lazerli-bina-kapisi-800.webp",
+    "small_px": [
+      671,
+      800
+    ],
+    "small_bytes": 40826,
+    "small_q": 80
+  },
+  {
+    "original": "genis-kapi-modeli.jfif",
+    "slug": "genis-kapi-modeli",
+    "pages": [
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      1080,
+      1450
+    ],
+    "original_bytes": 150647,
+    "large": "genis-kapi-modeli-1600.webp",
+    "large_px": [
+      1080,
+      1450
+    ],
+    "large_bytes": 98808,
+    "large_q": 80,
+    "small": "genis-kapi-modeli-800.webp",
+    "small_px": [
+      595,
+      800
+    ],
+    "small_bytes": 39300,
+    "small_q": 80
+  },
+  {
+    "original": "iki-acilir-bir-acilir-yavru-kanat-bir-acilir-tam-kanat-sabit-acilmaz-camli-kasali.jfif",
+    "slug": "iki-acilir-bir-acilir-yavru-kanat-bir-acilir-tam-kanat-sabit-acilmaz-camli-kasali",
+    "pages": [
+      "camli-bina-kapisi",
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      1204,
+      1600
+    ],
+    "original_bytes": 111367,
+    "large": "iki-acilir-bir-acilir-yavru-kanat-bir-acilir-tam-kanat-sabit-acilmaz-camli-kasali-1600.webp",
+    "large_px": [
+      1204,
+      1600
+    ],
+    "large_bytes": 59526,
+    "large_q": 80,
+    "small": "iki-acilir-bir-acilir-yavru-kanat-bir-acilir-tam-kanat-sabit-acilmaz-camli-kasali-800.webp",
+    "small_px": [
+      602,
+      800
+    ],
+    "small_bytes": 26066,
+    "small_q": 80
+  },
+  {
+    "original": "kahverengi-camli-kapi-modeli.jfif",
+    "slug": "kahverengi-camli-kapi-modeli",
+    "pages": [
+      "camli-bina-kapisi",
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      658,
+      1024
+    ],
+    "original_bytes": 74262,
+    "large": "kahverengi-camli-kapi-modeli-1600.webp",
+    "large_px": [
+      658,
+      1024
+    ],
+    "large_bytes": 49166,
+    "large_q": 80,
+    "small": "kahverengi-camli-kapi-modeli-800.webp",
+    "small_px": [
+      514,
+      800
+    ],
+    "small_bytes": 32772,
+    "small_q": 80
+  },
+  {
+    "original": "komple-metal-dort-mevsim-yavru-kanatli-celik-kapi.jfif",
+    "slug": "komple-metal-dort-mevsim-yavru-kanatli-celik-kapi",
+    "pages": [
+      "bina-giris-kapisi",
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      738,
+      1278
+    ],
+    "original_bytes": 64593,
+    "large": "komple-metal-dort-mevsim-yavru-kanatli-celik-kapi-1600.webp",
+    "large_px": [
+      738,
+      1278
+    ],
+    "large_bytes": 27880,
+    "large_q": 80,
+    "small": "komple-metal-dort-mevsim-yavru-kanatli-celik-kapi-800.webp",
+    "small_px": [
+      461,
+      800
+    ],
+    "small_bytes": 14342,
+    "small_q": 80
+  },
+  {
+    "original": "komple-metal-lambiri-duvara-montajlı-kompozit-panel.jfif",
+    "slug": "komple-metal-lambiri-duvara-montajli-kompozit-panel",
+    "pages": [
+      "bina-giris-kapisi",
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      720,
+      1600
+    ],
+    "original_bytes": 130133,
+    "large": "komple-metal-lambiri-duvara-montajli-kompozit-panel-1600.webp",
+    "large_px": [
+      720,
+      1600
+    ],
+    "large_bytes": 84266,
+    "large_q": 80,
+    "small": "komple-metal-lambiri-duvara-montajli-kompozit-panel-800.webp",
+    "small_px": [
+      360,
+      800
+    ],
+    "small_bytes": 30586,
+    "small_q": 80
+  },
+  {
+    "original": "kompozit-celik-kapi.jfif",
+    "slug": "kompozit-celik-kapi",
+    "pages": [
+      "bina-giris-kapisi",
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      945,
+      2048
+    ],
+    "original_bytes": 210896,
+    "large": "kompozit-celik-kapi-1600.webp",
+    "large_px": [
+      738,
+      1600
+    ],
+    "large_bytes": 99610,
+    "large_q": 80,
+    "small": "kompozit-celik-kapi-800.webp",
+    "small_px": [
+      369,
+      800
+    ],
+    "small_bytes": 36312,
+    "small_q": 80
+  },
+  {
+    "original": "kompozit-metal-antrasit-giris-kapisi.jfif",
+    "slug": "kompozit-metal-antrasit-giris-kapisi",
+    "pages": [
+      "bina-giris-kapisi",
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      1204,
+      1600
+    ],
+    "original_bytes": 95740,
+    "large": "kompozit-metal-antrasit-giris-kapisi-1600.webp",
+    "large_px": [
+      1204,
+      1600
+    ],
+    "large_bytes": 45410,
+    "large_q": 80,
+    "small": "kompozit-metal-antrasit-giris-kapisi-800.webp",
+    "small_px": [
+      602,
+      800
+    ],
+    "small_bytes": 17560,
+    "small_q": 80
+  },
+  {
+    "original": "kompozit-metal-giris-kapisi.jfif",
+    "slug": "kompozit-metal-giris-kapisi",
+    "pages": [
+      "bina-giris-kapisi",
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      721,
+      1600
+    ],
+    "original_bytes": 67658,
+    "large": "kompozit-metal-giris-kapisi-1600.webp",
+    "large_px": [
+      721,
+      1600
+    ],
+    "large_bytes": 33200,
+    "large_q": 80,
+    "small": "kompozit-metal-giris-kapisi-800.webp",
+    "small_px": [
+      360,
+      800
+    ],
+    "small_bytes": 13500,
+    "small_q": 80
+  },
+  {
+    "original": "kompozit-panel-daire-giris-kapisi.jfif",
+    "slug": "kompozit-panel-daire-giris-kapisi",
+    "pages": [
+      "bina-giris-kapisi",
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      1080,
+      1569
+    ],
+    "original_bytes": 125265,
+    "large": "kompozit-panel-daire-giris-kapisi-1600.webp",
+    "large_px": [
+      1080,
+      1569
+    ],
+    "large_bytes": 72418,
+    "large_q": 80,
+    "small": "kompozit-panel-daire-giris-kapisi-800.webp",
+    "small_px": [
+      550,
+      800
+    ],
+    "small_bytes": 22224,
+    "small_q": 80
+  },
+  {
+    "original": "kompozit-panel3.jfif",
+    "slug": "kompozit-panel-3",
+    "pages": [
+      "bina-giris-kapisi",
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      721,
+      1600
+    ],
+    "original_bytes": 138675,
+    "large": "kompozit-panel-3-1600.webp",
+    "large_px": [
+      721,
+      1600
+    ],
+    "large_bytes": 84700,
+    "large_q": 80,
+    "small": "kompozit-panel-3-800.webp",
+    "small_px": [
+      360,
+      800
+    ],
+    "small_bytes": 27646,
+    "small_q": 80
+  },
+  {
+    "original": "kompozit-sac-panel-sol-tarafi-siyah-camli-bina-kapisi.jfif",
+    "slug": "kompozit-sac-panel-sol-tarafi-siyah-camli-bina-kapisi",
+    "pages": [
+      "camli-bina-kapisi",
+      "bina-giris-kapisi",
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      720,
+      1303
+    ],
+    "original_bytes": 99641,
+    "large": "kompozit-sac-panel-sol-tarafi-siyah-camli-bina-kapisi-1600.webp",
+    "large_px": [
+      720,
+      1303
+    ],
+    "large_bytes": 67584,
+    "large_q": 80,
+    "small": "kompozit-sac-panel-sol-tarafi-siyah-camli-bina-kapisi-800.webp",
+    "small_px": [
+      442,
+      800
+    ],
+    "small_bytes": 30552,
+    "small_q": 80
+  },
+  {
+    "original": "kompozit-tek-kanat-camsiz.jfif",
+    "slug": "kompozit-tek-kanat-camsiz",
+    "pages": [
+      "bina-giris-kapisi",
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      721,
+      1600
+    ],
+    "original_bytes": 78383,
+    "large": "kompozit-tek-kanat-camsiz-1600.webp",
+    "large_px": [
+      721,
+      1600
+    ],
+    "large_bytes": 40594,
+    "large_q": 80,
+    "small": "kompozit-tek-kanat-camsiz-800.webp",
+    "small_px": [
+      360,
+      800
+    ],
+    "small_bytes": 14076,
+    "small_q": 80
+  },
+  {
+    "original": "kompozit5.jfif",
+    "slug": "kompozit-5",
+    "pages": [
+      "bina-giris-kapisi",
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      1080,
+      1412
+    ],
+    "original_bytes": 149633,
+    "large": "kompozit-5-1600.webp",
+    "large_px": [
+      1080,
+      1412
+    ],
+    "large_bytes": 96256,
+    "large_q": 80,
+    "small": "kompozit-5-800.webp",
+    "small_px": [
+      611,
+      800
+    ],
+    "small_bytes": 47750,
+    "small_q": 80
+  },
+  {
+    "original": "kompozit6.jfif",
+    "slug": "kompozit-6",
+    "pages": [
+      "bina-giris-kapisi",
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      721,
+      1600
+    ],
+    "original_bytes": 148335,
+    "large": "kompozit-6-1600.webp",
+    "large_px": [
+      721,
+      1600
+    ],
+    "large_bytes": 119224,
+    "large_q": 80,
+    "small": "kompozit-6-800.webp",
+    "small_px": [
+      360,
+      800
+    ],
+    "small_bytes": 39422,
+    "small_q": 80
+  },
+  {
+    "original": "korkuluklu-bordo-renkli-kapi-modeli.jfif",
+    "slug": "korkuluklu-bordo-renkli-kapi-modeli",
+    "pages": [
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      1080,
+      1434
+    ],
+    "original_bytes": 140455,
+    "large": "korkuluklu-bordo-renkli-kapi-modeli-1600.webp",
+    "large_px": [
+      1080,
+      1434
+    ],
+    "large_bytes": 79776,
+    "large_q": 80,
+    "small": "korkuluklu-bordo-renkli-kapi-modeli-800.webp",
+    "small_px": [
+      602,
+      800
+    ],
+    "small_bytes": 37714,
+    "small_q": 80
+  },
+  {
+    "original": "laminoks-camli-celik-kapi.jfif",
+    "slug": "laminoks-camli-celik-kapi",
+    "pages": [
+      "camli-bina-kapisi",
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      768,
+      1024
+    ],
+    "original_bytes": 86270,
+    "large": "laminoks-camli-celik-kapi-1600.webp",
+    "large_px": [
+      768,
+      1024
+    ],
+    "large_bytes": 56586,
+    "large_q": 80,
+    "small": "laminoks-camli-celik-kapi-800.webp",
+    "small_px": [
+      600,
+      800
+    ],
+    "small_bytes": 38870,
+    "small_q": 80
+  },
+  {
+    "original": "laminoks-yavru-kanatli-antrasit-siyah-kapi.jfif",
+    "slug": "laminoks-yavru-kanatli-antrasit-siyah-kapi",
+    "pages": [
+      "bina-giris-kapisi",
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      1080,
+      1391
+    ],
+    "original_bytes": 101592,
+    "large": "laminoks-yavru-kanatli-antrasit-siyah-kapi-1600.webp",
+    "large_px": [
+      1080,
+      1391
+    ],
+    "large_bytes": 54710,
+    "large_q": 80,
+    "small": "laminoks-yavru-kanatli-antrasit-siyah-kapi-800.webp",
+    "small_px": [
+      621,
+      800
+    ],
+    "small_bytes": 21360,
+    "small_q": 80
+  },
+  {
+    "original": "lazer-kesim-camli-bina-giris-kapisi.jfif",
+    "slug": "lazer-kesim-camli-bina-giris-kapisi",
+    "pages": [
+      "camli-bina-kapisi",
+      "bina-giris-kapisi",
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      721,
+      1600
+    ],
+    "original_bytes": 94112,
+    "large": "lazer-kesim-camli-bina-giris-kapisi-1600.webp",
+    "large_px": [
+      721,
+      1600
+    ],
+    "large_bytes": 57236,
+    "large_q": 80,
+    "small": "lazer-kesim-camli-bina-giris-kapisi-800.webp",
+    "small_px": [
+      360,
+      800
+    ],
+    "small_bytes": 25372,
+    "small_q": 80
+  },
+  {
+    "original": "lazer-kesim-celik-kapi-camli.jfif",
+    "slug": "lazer-kesim-celik-kapi-camli",
+    "pages": [
+      "camli-bina-kapisi",
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      1204,
+      1600
+    ],
+    "original_bytes": 201287,
+    "large": "lazer-kesim-celik-kapi-camli-1600.webp",
+    "large_px": [
+      1204,
+      1600
+    ],
+    "large_bytes": 112770,
+    "large_q": 80,
+    "small": "lazer-kesim-celik-kapi-camli-800.webp",
+    "small_px": [
+      602,
+      800
+    ],
+    "small_bytes": 42182,
+    "small_q": 80
+  },
+  {
+    "original": "lazer-kesim-is-yeri-giris-kapisi.jfif",
+    "slug": "lazer-kesim-is-yeri-giris-kapisi",
+    "pages": [
+      "bina-giris-kapisi",
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      1204,
+      1600
+    ],
+    "original_bytes": 138497,
+    "large": "lazer-kesim-is-yeri-giris-kapisi-1600.webp",
+    "large_px": [
+      1204,
+      1600
+    ],
+    "large_bytes": 74188,
+    "large_q": 80,
+    "small": "lazer-kesim-is-yeri-giris-kapisi-800.webp",
+    "small_px": [
+      602,
+      800
+    ],
+    "small_bytes": 31254,
+    "small_q": 80
+  },
+  {
+    "original": "lazer-kesim-siyah-camli-celik-kapi.jfif",
+    "slug": "lazer-kesim-siyah-camli-celik-kapi",
+    "pages": [
+      "camli-bina-kapisi",
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      1290,
+      1735
+    ],
+    "original_bytes": 156494,
+    "large": "lazer-kesim-siyah-camli-celik-kapi-1600.webp",
+    "large_px": [
+      1189,
+      1600
+    ],
+    "large_bytes": 51590,
+    "large_q": 80,
+    "small": "lazer-kesim-siyah-camli-celik-kapi-800.webp",
+    "small_px": [
+      594,
+      800
+    ],
+    "small_bytes": 24260,
+    "small_q": 80
+  },
+  {
+    "original": "lazerli-apartman-giris-kapisi.jfif",
+    "slug": "lazerli-apartman-giris-kapisi",
+    "pages": [
+      "apartman-kapisi",
+      "bina-giris-kapisi",
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      721,
+      1600
+    ],
+    "original_bytes": 72678,
+    "large": "lazerli-apartman-giris-kapisi-1600.webp",
+    "large_px": [
+      721,
+      1600
+    ],
+    "large_bytes": 35090,
+    "large_q": 80,
+    "small": "lazerli-apartman-giris-kapisi-800.webp",
+    "small_px": [
+      360,
+      800
+    ],
+    "small_bytes": 16896,
+    "small_q": 80
+  },
+  {
+    "original": "lazerli-bina-giris-kapisi.jfif",
+    "slug": "lazerli-bina-giris-kapisi",
+    "pages": [
+      "bina-giris-kapisi",
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      721,
+      1600
+    ],
+    "original_bytes": 121407,
+    "large": "lazerli-bina-giris-kapisi-1600.webp",
+    "large_px": [
+      721,
+      1600
+    ],
+    "large_bytes": 84796,
+    "large_q": 80,
+    "small": "lazerli-bina-giris-kapisi-800.webp",
+    "small_px": [
+      360,
+      800
+    ],
+    "small_bytes": 29258,
+    "small_q": 80
+  },
+  {
+    "original": "lazerli-cift-yavru-kanatli-kompozit-celik-kapi.jfif",
+    "slug": "lazerli-cift-yavru-kanatli-kompozit-celik-kapi",
+    "pages": [
+      "bina-giris-kapisi",
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      1085,
+      1184
+    ],
+    "original_bytes": 115008,
+    "large": "lazerli-cift-yavru-kanatli-kompozit-celik-kapi-1600.webp",
+    "large_px": [
+      1085,
+      1184
+    ],
+    "large_bytes": 59728,
+    "large_q": 80,
+    "small": "lazerli-cift-yavru-kanatli-kompozit-celik-kapi-800.webp",
+    "small_px": [
+      733,
+      800
+    ],
+    "small_bytes": 37350,
+    "small_q": 80
+  },
+  {
+    "original": "luks-apartman-giris-kapisi.jfif",
+    "slug": "luks-apartman-giris-kapisi",
+    "pages": [
+      "apartman-kapisi",
+      "bina-giris-kapisi",
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      750,
+      1334
+    ],
+    "original_bytes": 100003,
+    "large": "luks-apartman-giris-kapisi-1600.webp",
+    "large_px": [
+      750,
+      1334
+    ],
+    "large_bytes": 61454,
+    "large_q": 80,
+    "small": "luks-apartman-giris-kapisi-800.webp",
+    "small_px": [
+      449,
+      800
+    ],
+    "small_bytes": 32444,
+    "small_q": 80
+  },
+  {
+    "original": "luks-kabartmali-camli-antrasit-pvc-kabartma-celik-kapi.jfif",
+    "slug": "luks-kabartmali-camli-antrasit-pvc-kabartma-celik-kapi",
+    "pages": [
+      "camli-bina-kapisi",
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      1080,
+      1197
+    ],
+    "original_bytes": 76448,
+    "large": "luks-kabartmali-camli-antrasit-pvc-kabartma-celik-kapi-1600.webp",
+    "large_px": [
+      1080,
+      1197
+    ],
+    "large_bytes": 34950,
+    "large_q": 80,
+    "small": "luks-kabartmali-camli-antrasit-pvc-kabartma-celik-kapi-800.webp",
+    "small_px": [
+      721,
+      800
+    ],
+    "small_bytes": 20752,
+    "small_q": 80
+  },
+  {
+    "original": "luks-laminoks-aynali-bina-giris-kapisi.jfif",
+    "slug": "luks-laminoks-aynali-bina-giris-kapisi",
+    "pages": [
+      "camli-bina-kapisi",
+      "bina-giris-kapisi",
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      696,
+      719
+    ],
+    "original_bytes": 37052,
+    "large": "luks-laminoks-aynali-bina-giris-kapisi-1600.webp",
+    "large_px": [
+      696,
+      719
+    ],
+    "large_bytes": 30428,
+    "large_q": 80,
+    "small": "luks-laminoks-aynali-bina-giris-kapisi-800.webp",
+    "small_px": [
+      696,
+      719
+    ],
+    "small_bytes": 30428,
+    "small_q": 80
+  },
+  {
+    "original": "luks-laminoks-kapi-modeli.jfif",
+    "slug": "luks-laminoks-kapi-modeli",
+    "pages": [
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      1204,
+      1600
+    ],
+    "original_bytes": 98464,
+    "large": "luks-laminoks-kapi-modeli-1600.webp",
+    "large_px": [
+      1204,
+      1600
+    ],
+    "large_bytes": 44220,
+    "large_q": 80,
+    "small": "luks-laminoks-kapi-modeli-800.webp",
+    "small_px": [
+      602,
+      800
+    ],
+    "small_bytes": 17268,
+    "small_q": 80
+  },
+  {
+    "original": "luks-laminoks-kapi-modeli10.jfif",
+    "slug": "luks-laminoks-kapi-modeli-10",
+    "pages": [
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      1080,
+      1531
+    ],
+    "original_bytes": 121750,
+    "large": "luks-laminoks-kapi-modeli-10-1600.webp",
+    "large_px": [
+      1080,
+      1531
+    ],
+    "large_bytes": 53602,
+    "large_q": 80,
+    "small": "luks-laminoks-kapi-modeli-10-800.webp",
+    "small_px": [
+      564,
+      800
+    ],
+    "small_bytes": 20402,
+    "small_q": 80
+  },
+  {
+    "original": "luks-laminoks-kapi-modeli14.jfif",
+    "slug": "luks-laminoks-kapi-modeli-14",
+    "pages": [
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      1080,
+      1416
+    ],
+    "original_bytes": 84489,
+    "large": "luks-laminoks-kapi-modeli-14-1600.webp",
+    "large_px": [
+      1080,
+      1416
+    ],
+    "large_bytes": 37896,
+    "large_q": 80,
+    "small": "luks-laminoks-kapi-modeli-14-800.webp",
+    "small_px": [
+      610,
+      800
+    ],
+    "small_bytes": 18358,
+    "small_q": 80
+  },
+  {
+    "original": "luks-laminoks-kapi-modeli15.jfif",
+    "slug": "luks-laminoks-kapi-modeli-15",
+    "pages": [
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      1204,
+      1600
+    ],
+    "original_bytes": 112182,
+    "large": "luks-laminoks-kapi-modeli-15-1600.webp",
+    "large_px": [
+      1204,
+      1600
+    ],
+    "large_bytes": 52632,
+    "large_q": 80,
+    "small": "luks-laminoks-kapi-modeli-15-800.webp",
+    "small_px": [
+      602,
+      800
+    ],
+    "small_bytes": 19840,
+    "small_q": 80
+  },
+  {
+    "original": "luks-laminoks-kapi-modeli16.jfif",
+    "slug": "luks-laminoks-kapi-modeli-16",
+    "pages": [
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      1050,
+      1435
+    ],
+    "original_bytes": 123915,
+    "large": "luks-laminoks-kapi-modeli-16-1600.webp",
+    "large_px": [
+      1050,
+      1435
+    ],
+    "large_bytes": 67214,
+    "large_q": 80,
+    "small": "luks-laminoks-kapi-modeli-16-800.webp",
+    "small_px": [
+      585,
+      800
+    ],
+    "small_bytes": 32000,
+    "small_q": 80
+  },
+  {
+    "original": "luks-laminoks-kapi-modeli17.jfif",
+    "slug": "luks-laminoks-kapi-modeli-17",
+    "pages": [
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      951,
+      1380
+    ],
+    "original_bytes": 85223,
+    "large": "luks-laminoks-kapi-modeli-17-1600.webp",
+    "large_px": [
+      951,
+      1380
+    ],
+    "large_bytes": 45016,
+    "large_q": 80,
+    "small": "luks-laminoks-kapi-modeli-17-800.webp",
+    "small_px": [
+      551,
+      800
+    ],
+    "small_bytes": 18862,
+    "small_q": 80
+  },
+  {
+    "original": "luks-laminoks-kapi-modeli18.jfif",
+    "slug": "luks-laminoks-kapi-modeli-18",
+    "pages": [
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      1080,
+      1334
+    ],
+    "original_bytes": 97168,
+    "large": "luks-laminoks-kapi-modeli-18-1600.webp",
+    "large_px": [
+      1080,
+      1334
+    ],
+    "large_bytes": 51296,
+    "large_q": 80,
+    "small": "luks-laminoks-kapi-modeli-18-800.webp",
+    "small_px": [
+      647,
+      800
+    ],
+    "small_bytes": 26782,
+    "small_q": 80
+  },
+  {
+    "original": "luks-laminoks-kapi-modeli2.jfif",
+    "slug": "luks-laminoks-kapi-modeli-2",
+    "pages": [
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      1536,
+      2048
+    ],
+    "original_bytes": 258661,
+    "large": "luks-laminoks-kapi-modeli-2-1600.webp",
+    "large_px": [
+      1200,
+      1600
+    ],
+    "large_bytes": 103722,
+    "large_q": 80,
+    "small": "luks-laminoks-kapi-modeli-2-800.webp",
+    "small_px": [
+      600,
+      800
+    ],
+    "small_bytes": 32332,
+    "small_q": 80
+  },
+  {
+    "original": "luks-laminoks-kapi-modeli20.jfif",
+    "slug": "luks-laminoks-kapi-modeli-20",
+    "pages": [
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      721,
+      1600
+    ],
+    "original_bytes": 75512,
+    "large": "luks-laminoks-kapi-modeli-20-1600.webp",
+    "large_px": [
+      721,
+      1600
+    ],
+    "large_bytes": 38734,
+    "large_q": 80,
+    "small": "luks-laminoks-kapi-modeli-20-800.webp",
+    "small_px": [
+      360,
+      800
+    ],
+    "small_bytes": 16718,
+    "small_q": 80
+  },
+  {
+    "original": "luks-laminoks-kapi-modeli21.jfif",
+    "slug": "luks-laminoks-kapi-modeli-21",
+    "pages": [
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      1080,
+      1440
+    ],
+    "original_bytes": 81340,
+    "large": "luks-laminoks-kapi-modeli-21-1600.webp",
+    "large_px": [
+      1080,
+      1440
+    ],
+    "large_bytes": 37198,
+    "large_q": 80,
+    "small": "luks-laminoks-kapi-modeli-21-800.webp",
+    "small_px": [
+      600,
+      800
+    ],
+    "small_bytes": 16518,
+    "small_q": 80
+  },
+  {
+    "original": "luks-laminoks-kapi-modeli22.jfif",
+    "slug": "luks-laminoks-kapi-modeli-22",
+    "pages": [
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      1080,
+      1439
+    ],
+    "original_bytes": 54833,
+    "large": "luks-laminoks-kapi-modeli-22-1600.webp",
+    "large_px": [
+      1080,
+      1439
+    ],
+    "large_bytes": 26062,
+    "large_q": 80,
+    "small": "luks-laminoks-kapi-modeli-22-800.webp",
+    "small_px": [
+      600,
+      800
+    ],
+    "small_bytes": 11380,
+    "small_q": 80
+  },
+  {
+    "original": "luks-laminoks-kapi-modeli23.jfif",
+    "slug": "luks-laminoks-kapi-modeli-23",
+    "pages": [
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      945,
+      2048
+    ],
+    "original_bytes": 87819,
+    "large": "luks-laminoks-kapi-modeli-23-1600.webp",
+    "large_px": [
+      738,
+      1600
+    ],
+    "large_bytes": 24914,
+    "large_q": 80,
+    "small": "luks-laminoks-kapi-modeli-23-800.webp",
+    "small_px": [
+      369,
+      800
+    ],
+    "small_bytes": 10950,
+    "small_q": 80
+  },
+  {
+    "original": "luks-laminoks-kapi-modeli24.jfif",
+    "slug": "luks-laminoks-kapi-modeli-24",
+    "pages": [
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      945,
+      2048
+    ],
+    "original_bytes": 88842,
+    "large": "luks-laminoks-kapi-modeli-24-1600.webp",
+    "large_px": [
+      738,
+      1600
+    ],
+    "large_bytes": 26394,
+    "large_q": 80,
+    "small": "luks-laminoks-kapi-modeli-24-800.webp",
+    "small_px": [
+      369,
+      800
+    ],
+    "small_bytes": 11374,
+    "small_q": 80
+  },
+  {
+    "original": "luks-laminoks-kapi-modeli25.jfif",
+    "slug": "luks-laminoks-kapi-modeli-25",
+    "pages": [
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      945,
+      2048
+    ],
+    "original_bytes": 96380,
+    "large": "luks-laminoks-kapi-modeli-25-1600.webp",
+    "large_px": [
+      738,
+      1600
+    ],
+    "large_bytes": 29486,
+    "large_q": 80,
+    "small": "luks-laminoks-kapi-modeli-25-800.webp",
+    "small_px": [
+      369,
+      800
+    ],
+    "small_bytes": 14136,
+    "small_q": 80
+  },
+  {
+    "original": "luks-laminoks-kapi-modeli26.jfif",
+    "slug": "luks-laminoks-kapi-modeli-26",
+    "pages": [
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      738,
+      1600
+    ],
+    "original_bytes": 42329,
+    "large": "luks-laminoks-kapi-modeli-26-1600.webp",
+    "large_px": [
+      738,
+      1600
+    ],
+    "large_bytes": 16320,
+    "large_q": 80,
+    "small": "luks-laminoks-kapi-modeli-26-800.webp",
+    "small_px": [
+      369,
+      800
+    ],
+    "small_bytes": 6280,
+    "small_q": 80
+  },
+  {
+    "original": "luks-laminoks-kapi-modeli27.jfif",
+    "slug": "luks-laminoks-kapi-modeli-27",
+    "pages": [
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      738,
+      1600
+    ],
+    "original_bytes": 45209,
+    "large": "luks-laminoks-kapi-modeli-27-1600.webp",
+    "large_px": [
+      738,
+      1600
+    ],
+    "large_bytes": 18156,
+    "large_q": 80,
+    "small": "luks-laminoks-kapi-modeli-27-800.webp",
+    "small_px": [
+      369,
+      800
+    ],
+    "small_bytes": 6950,
+    "small_q": 80
+  },
+  {
+    "original": "luks-laminoks-kapi-modeli28.jfif",
+    "slug": "luks-laminoks-kapi-modeli-28",
+    "pages": [
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      1080,
+      1440
+    ],
+    "original_bytes": 62435,
+    "large": "luks-laminoks-kapi-modeli-28-1600.webp",
+    "large_px": [
+      1080,
+      1440
+    ],
+    "large_bytes": 29202,
+    "large_q": 80,
+    "small": "luks-laminoks-kapi-modeli-28-800.webp",
+    "small_px": [
+      600,
+      800
+    ],
+    "small_bytes": 14132,
+    "small_q": 80
+  },
+  {
+    "original": "luks-laminoks-kapi-modeli29.jfif",
+    "slug": "luks-laminoks-kapi-modeli-29",
+    "pages": [
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      738,
+      1600
+    ],
+    "original_bytes": 79402,
+    "large": "luks-laminoks-kapi-modeli-29-1600.webp",
+    "large_px": [
+      738,
+      1600
+    ],
+    "large_bytes": 49124,
+    "large_q": 80,
+    "small": "luks-laminoks-kapi-modeli-29-800.webp",
+    "small_px": [
+      369,
+      800
+    ],
+    "small_bytes": 16102,
+    "small_q": 80
+  },
+  {
+    "original": "luks-laminoks-kapi-modeli3.jfif",
+    "slug": "luks-laminoks-kapi-modeli-3",
+    "pages": [
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      1080,
+      1531
+    ],
+    "original_bytes": 121750,
+    "large": "luks-laminoks-kapi-modeli-3-1600.webp",
+    "large_px": [
+      1080,
+      1531
+    ],
+    "large_bytes": 53602,
+    "large_q": 80,
+    "small": "luks-laminoks-kapi-modeli-3-800.webp",
+    "small_px": [
+      564,
+      800
+    ],
+    "small_bytes": 20402,
+    "small_q": 80
+  },
+  {
+    "original": "luks-laminoks-kapi-modeli30.jfif",
+    "slug": "luks-laminoks-kapi-modeli-30",
+    "pages": [
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      738,
+      1600
+    ],
+    "original_bytes": 51757,
+    "large": "luks-laminoks-kapi-modeli-30-1600.webp",
+    "large_px": [
+      738,
+      1600
+    ],
+    "large_bytes": 22016,
+    "large_q": 80,
+    "small": "luks-laminoks-kapi-modeli-30-800.webp",
+    "small_px": [
+      369,
+      800
+    ],
+    "small_bytes": 8656,
+    "small_q": 80
+  },
+  {
+    "original": "luks-laminoks-kapi-modeli31.jfif",
+    "slug": "luks-laminoks-kapi-modeli-31",
+    "pages": [
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      1080,
+      1417
+    ],
+    "original_bytes": 75069,
+    "large": "luks-laminoks-kapi-modeli-31-1600.webp",
+    "large_px": [
+      1080,
+      1417
+    ],
+    "large_bytes": 38336,
+    "large_q": 80,
+    "small": "luks-laminoks-kapi-modeli-31-800.webp",
+    "small_px": [
+      609,
+      800
+    ],
+    "small_bytes": 16544,
+    "small_q": 80
+  },
+  {
+    "original": "luks-laminoks-kapi-modeli32.jfif",
+    "slug": "luks-laminoks-kapi-modeli-32",
+    "pages": [
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      945,
+      2048
+    ],
+    "original_bytes": 71881,
+    "large": "luks-laminoks-kapi-modeli-32-1600.webp",
+    "large_px": [
+      738,
+      1600
+    ],
+    "large_bytes": 20384,
+    "large_q": 80,
+    "small": "luks-laminoks-kapi-modeli-32-800.webp",
+    "small_px": [
+      369,
+      800
+    ],
+    "small_bytes": 8962,
+    "small_q": 80
+  },
+  {
+    "original": "luks-laminoks-kapi-modeli33.jfif",
+    "slug": "luks-laminoks-kapi-modeli-33",
+    "pages": [
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      738,
+      1600
+    ],
+    "original_bytes": 59909,
+    "large": "luks-laminoks-kapi-modeli-33-1600.webp",
+    "large_px": [
+      738,
+      1600
+    ],
+    "large_bytes": 33456,
+    "large_q": 80,
+    "small": "luks-laminoks-kapi-modeli-33-800.webp",
+    "small_px": [
+      369,
+      800
+    ],
+    "small_bytes": 10408,
+    "small_q": 80
+  },
+  {
+    "original": "luks-laminoks-kapi-modeli34.jfif",
+    "slug": "luks-laminoks-kapi-modeli-34",
+    "pages": [
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      721,
+      1600
+    ],
+    "original_bytes": 85178,
+    "large": "luks-laminoks-kapi-modeli-34-1600.webp",
+    "large_px": [
+      721,
+      1600
+    ],
+    "large_bytes": 50078,
+    "large_q": 80,
+    "small": "luks-laminoks-kapi-modeli-34-800.webp",
+    "small_px": [
+      360,
+      800
+    ],
+    "small_bytes": 19702,
+    "small_q": 80
+  },
+  {
+    "original": "luks-laminoks-kapi-modeli35.jfif",
+    "slug": "luks-laminoks-kapi-modeli-35",
+    "pages": [
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      738,
+      1600
+    ],
+    "original_bytes": 82867,
+    "large": "luks-laminoks-kapi-modeli-35-1600.webp",
+    "large_px": [
+      738,
+      1600
+    ],
+    "large_bytes": 39304,
+    "large_q": 80,
+    "small": "luks-laminoks-kapi-modeli-35-800.webp",
+    "small_px": [
+      369,
+      800
+    ],
+    "small_bytes": 17694,
+    "small_q": 80
+  },
+  {
+    "original": "luks-laminoks-kapi-modeli36.jfif",
+    "slug": "luks-laminoks-kapi-modeli-36",
+    "pages": [
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      721,
+      1600
+    ],
+    "original_bytes": 86278,
+    "large": "luks-laminoks-kapi-modeli-36-1600.webp",
+    "large_px": [
+      721,
+      1600
+    ],
+    "large_bytes": 47118,
+    "large_q": 80,
+    "small": "luks-laminoks-kapi-modeli-36-800.webp",
+    "small_px": [
+      360,
+      800
+    ],
+    "small_bytes": 17216,
+    "small_q": 80
+  },
+  {
+    "original": "luks-laminoks-kapi-modeli37.jfif",
+    "slug": "luks-laminoks-kapi-modeli-37",
+    "pages": [
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      1080,
+      1091
+    ],
+    "original_bytes": 54876,
+    "large": "luks-laminoks-kapi-modeli-37-1600.webp",
+    "large_px": [
+      1080,
+      1091
+    ],
+    "large_bytes": 23368,
+    "large_q": 80,
+    "small": "luks-laminoks-kapi-modeli-37-800.webp",
+    "small_px": [
+      791,
+      800
+    ],
+    "small_bytes": 15320,
+    "small_q": 80
+  },
+  {
+    "original": "luks-laminoks-kapi-modeli38.jfif",
+    "slug": "luks-laminoks-kapi-modeli-38",
+    "pages": [
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      1080,
+      1032
+    ],
+    "original_bytes": 54938,
+    "large": "luks-laminoks-kapi-modeli-38-1600.webp",
+    "large_px": [
+      1080,
+      1032
+    ],
+    "large_bytes": 25486,
+    "large_q": 80,
+    "small": "luks-laminoks-kapi-modeli-38-800.webp",
+    "small_px": [
+      800,
+      764
+    ],
+    "small_bytes": 16658,
+    "small_q": 80
+  },
+  {
+    "original": "luks-laminoks-kapi-modeli39.jfif",
+    "slug": "luks-laminoks-kapi-modeli-39",
+    "pages": [
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      1080,
+      1059
+    ],
+    "original_bytes": 52940,
+    "large": "luks-laminoks-kapi-modeli-39-1600.webp",
+    "large_px": [
+      1080,
+      1059
+    ],
+    "large_bytes": 22014,
+    "large_q": 80,
+    "small": "luks-laminoks-kapi-modeli-39-800.webp",
+    "small_px": [
+      800,
+      784
+    ],
+    "small_bytes": 14412,
+    "small_q": 80
+  },
+  {
+    "original": "luks-laminoks-kapi-modeli4.jfif",
+    "slug": "luks-laminoks-kapi-modeli-4",
+    "pages": [
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      1044,
+      1307
+    ],
+    "original_bytes": 107570,
+    "large": "luks-laminoks-kapi-modeli-4-1600.webp",
+    "large_px": [
+      1044,
+      1307
+    ],
+    "large_bytes": 54808,
+    "large_q": 80,
+    "small": "luks-laminoks-kapi-modeli-4-800.webp",
+    "small_px": [
+      639,
+      799
+    ],
+    "small_bytes": 27998,
+    "small_q": 80
+  },
+  {
+    "original": "luks-laminoks-kapi-modeli40.jfif",
+    "slug": "luks-laminoks-kapi-modeli-40",
+    "pages": [
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      721,
+      1600
+    ],
+    "original_bytes": 88561,
+    "large": "luks-laminoks-kapi-modeli-40-1600.webp",
+    "large_px": [
+      721,
+      1600
+    ],
+    "large_bytes": 44030,
+    "large_q": 80,
+    "small": "luks-laminoks-kapi-modeli-40-800.webp",
+    "small_px": [
+      360,
+      800
+    ],
+    "small_bytes": 17466,
+    "small_q": 80
+  },
+  {
+    "original": "luks-laminoks-kapi-modeli41.jfif",
+    "slug": "luks-laminoks-kapi-modeli-41",
+    "pages": [
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      1204,
+      1600
+    ],
+    "original_bytes": 140437,
+    "large": "luks-laminoks-kapi-modeli-41-1600.webp",
+    "large_px": [
+      1204,
+      1600
+    ],
+    "large_bytes": 76968,
+    "large_q": 80,
+    "small": "luks-laminoks-kapi-modeli-41-800.webp",
+    "small_px": [
+      602,
+      800
+    ],
+    "small_bytes": 22608,
+    "small_q": 80
+  },
+  {
+    "original": "luks-laminoks-kapi-modeli42.jfif",
+    "slug": "luks-laminoks-kapi-modeli-42",
+    "pages": [
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      1080,
+      1343
+    ],
+    "original_bytes": 82324,
+    "large": "luks-laminoks-kapi-modeli-42-1600.webp",
+    "large_px": [
+      1080,
+      1343
+    ],
+    "large_bytes": 45048,
+    "large_q": 80,
+    "small": "luks-laminoks-kapi-modeli-42-800.webp",
+    "small_px": [
+      643,
+      800
+    ],
+    "small_bytes": 21898,
+    "small_q": 80
+  },
+  {
+    "original": "luks-laminoks-kapi-modeli43.jfif",
+    "slug": "luks-laminoks-kapi-modeli-43",
+    "pages": [
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      1204,
+      1600
+    ],
+    "original_bytes": 226301,
+    "large": "luks-laminoks-kapi-modeli-43-1600.webp",
+    "large_px": [
+      1204,
+      1600
+    ],
+    "large_bytes": 171472,
+    "large_q": 80,
+    "small": "luks-laminoks-kapi-modeli-43-800.webp",
+    "small_px": [
+      602,
+      800
+    ],
+    "small_bytes": 57240,
+    "small_q": 80
+  },
+  {
+    "original": "luks-laminoks-kapi-modeli44.jfif",
+    "slug": "luks-laminoks-kapi-modeli-44",
+    "pages": [
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      1200,
+      1600
+    ],
+    "original_bytes": 154509,
+    "large": "luks-laminoks-kapi-modeli-44-1600.webp",
+    "large_px": [
+      1200,
+      1600
+    ],
+    "large_bytes": 99220,
+    "large_q": 80,
+    "small": "luks-laminoks-kapi-modeli-44-800.webp",
+    "small_px": [
+      600,
+      800
+    ],
+    "small_bytes": 24262,
+    "small_q": 80
+  },
+  {
+    "original": "luks-laminoks-kapi-modeli45.jfif",
+    "slug": "luks-laminoks-kapi-modeli-45",
+    "pages": [
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      1080,
+      1585
+    ],
+    "original_bytes": 67074,
+    "large": "luks-laminoks-kapi-modeli-45-1600.webp",
+    "large_px": [
+      1080,
+      1585
+    ],
+    "large_bytes": 26462,
+    "large_q": 80,
+    "small": "luks-laminoks-kapi-modeli-45-800.webp",
+    "small_px": [
+      545,
+      800
+    ],
+    "small_bytes": 10794,
+    "small_q": 80
+  },
+  {
+    "original": "luks-laminoks-kapi-modeli46.jfif",
+    "slug": "luks-laminoks-kapi-modeli-46",
+    "pages": [
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      721,
+      1600
+    ],
+    "original_bytes": 80444,
+    "large": "luks-laminoks-kapi-modeli-46-1600.webp",
+    "large_px": [
+      721,
+      1600
+    ],
+    "large_bytes": 43696,
+    "large_q": 80,
+    "small": "luks-laminoks-kapi-modeli-46-800.webp",
+    "small_px": [
+      360,
+      800
+    ],
+    "small_bytes": 16276,
+    "small_q": 80
+  },
+  {
+    "original": "luks-laminoks-kapi-modeli47.jfif",
+    "slug": "luks-laminoks-kapi-modeli-47",
+    "pages": [
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      721,
+      1600
+    ],
+    "original_bytes": 133112,
+    "large": "luks-laminoks-kapi-modeli-47-1600.webp",
+    "large_px": [
+      721,
+      1600
+    ],
+    "large_bytes": 98676,
+    "large_q": 80,
+    "small": "luks-laminoks-kapi-modeli-47-800.webp",
+    "small_px": [
+      360,
+      800
+    ],
+    "small_bytes": 29660,
+    "small_q": 80
+  },
+  {
+    "original": "luks-laminoks-kapi-modeli48.jfif",
+    "slug": "luks-laminoks-kapi-modeli-48",
+    "pages": [
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      1204,
+      1600
+    ],
+    "original_bytes": 114499,
+    "large": "luks-laminoks-kapi-modeli-48-1600.webp",
+    "large_px": [
+      1204,
+      1600
+    ],
+    "large_bytes": 55802,
+    "large_q": 80,
+    "small": "luks-laminoks-kapi-modeli-48-800.webp",
+    "small_px": [
+      602,
+      800
+    ],
+    "small_bytes": 22300,
+    "small_q": 80
+  },
+  {
+    "original": "luks-laminoks-kapi-modeli49.jfif",
+    "slug": "luks-laminoks-kapi-modeli-49",
+    "pages": [
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      1204,
+      1600
+    ],
+    "original_bytes": 178030,
+    "large": "luks-laminoks-kapi-modeli-49-1600.webp",
+    "large_px": [
+      1204,
+      1600
+    ],
+    "large_bytes": 121434,
+    "large_q": 80,
+    "small": "luks-laminoks-kapi-modeli-49-800.webp",
+    "small_px": [
+      602,
+      800
+    ],
+    "small_bytes": 32062,
+    "small_q": 80
+  },
+  {
+    "original": "luks-laminoks-kapi-modeli5.jfif",
+    "slug": "luks-laminoks-kapi-modeli-5",
+    "pages": [
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      721,
+      1600
+    ],
+    "original_bytes": 81957,
+    "large": "luks-laminoks-kapi-modeli-5-1600.webp",
+    "large_px": [
+      721,
+      1600
+    ],
+    "large_bytes": 41268,
+    "large_q": 80,
+    "small": "luks-laminoks-kapi-modeli-5-800.webp",
+    "small_px": [
+      360,
+      800
+    ],
+    "small_bytes": 15480,
+    "small_q": 80
+  },
+  {
+    "original": "luks-laminoks-kapi-modeli50.jfif",
+    "slug": "luks-laminoks-kapi-modeli-50",
+    "pages": [
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      1152,
+      2048
+    ],
+    "original_bytes": 153029,
+    "large": "luks-laminoks-kapi-modeli-50-1600.webp",
+    "large_px": [
+      900,
+      1600
+    ],
+    "large_bytes": 44736,
+    "large_q": 80,
+    "small": "luks-laminoks-kapi-modeli-50-800.webp",
+    "small_px": [
+      450,
+      800
+    ],
+    "small_bytes": 15794,
+    "small_q": 80
+  },
+  {
+    "original": "luks-laminoks-kapi-modeli51.jfif",
+    "slug": "luks-laminoks-kapi-modeli-51",
+    "pages": [
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      920,
+      1297
+    ],
+    "original_bytes": 80883,
+    "large": "luks-laminoks-kapi-modeli-51-1600.webp",
+    "large_px": [
+      920,
+      1297
+    ],
+    "large_bytes": 39344,
+    "large_q": 80,
+    "small": "luks-laminoks-kapi-modeli-51-800.webp",
+    "small_px": [
+      567,
+      800
+    ],
+    "small_bytes": 21136,
+    "small_q": 80
+  },
+  {
+    "original": "luks-laminoks-kapi-modeli6.jfif",
+    "slug": "luks-laminoks-kapi-modeli-6",
+    "pages": [
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      1204,
+      1600
+    ],
+    "original_bytes": 76589,
+    "large": "luks-laminoks-kapi-modeli-6-1600.webp",
+    "large_px": [
+      1204,
+      1600
+    ],
+    "large_bytes": 28442,
+    "large_q": 80,
+    "small": "luks-laminoks-kapi-modeli-6-800.webp",
+    "small_px": [
+      602,
+      800
+    ],
+    "small_bytes": 12084,
+    "small_q": 80
+  },
+  {
+    "original": "luks-laminoks-kapi-modeli7.jfif",
+    "slug": "luks-laminoks-kapi-modeli-7",
+    "pages": [
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      1204,
+      1600
+    ],
+    "original_bytes": 99400,
+    "large": "luks-laminoks-kapi-modeli-7-1600.webp",
+    "large_px": [
+      1204,
+      1600
+    ],
+    "large_bytes": 42218,
+    "large_q": 80,
+    "small": "luks-laminoks-kapi-modeli-7-800.webp",
+    "small_px": [
+      602,
+      800
+    ],
+    "small_bytes": 17488,
+    "small_q": 80
+  },
+  {
+    "original": "luks-laminoks-kapi-modeli8.jfif",
+    "slug": "luks-laminoks-kapi-modeli-8",
+    "pages": [
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      1080,
+      1400
+    ],
+    "original_bytes": 125375,
+    "large": "luks-laminoks-kapi-modeli-8-1600.webp",
+    "large_px": [
+      1080,
+      1400
+    ],
+    "large_bytes": 86754,
+    "large_q": 80,
+    "small": "luks-laminoks-kapi-modeli-8-800.webp",
+    "small_px": [
+      617,
+      800
+    ],
+    "small_bytes": 30798,
+    "small_q": 80
+  },
+  {
+    "original": "luks-laminoks-kapi-modeli9.jfif",
+    "slug": "luks-laminoks-kapi-modeli-9",
+    "pages": [
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      1204,
+      1600
+    ],
+    "original_bytes": 262955,
+    "large": "luks-laminoks-kapi-modeli-9-1600.webp",
+    "large_px": [
+      1204,
+      1600
+    ],
+    "large_bytes": 200902,
+    "large_q": 80,
+    "small": "luks-laminoks-kapi-modeli-9-800.webp",
+    "small_px": [
+      602,
+      800
+    ],
+    "small_bytes": 58510,
+    "small_q": 80
+  },
+  {
+    "original": "luks-pvc-kabartma-celik-kapi-modeli.jfif",
+    "slug": "luks-pvc-kabartma-celik-kapi-modeli",
+    "pages": [
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      721,
+      1600
+    ],
+    "original_bytes": 88003,
+    "large": "luks-pvc-kabartma-celik-kapi-modeli-1600.webp",
+    "large_px": [
+      721,
+      1600
+    ],
+    "large_bytes": 45078,
+    "large_q": 80,
+    "small": "luks-pvc-kabartma-celik-kapi-modeli-800.webp",
+    "small_px": [
+      360,
+      800
+    ],
+    "small_bytes": 15226,
+    "small_q": 80
+  },
+  {
+    "original": "luks-pvc-kabartma-celik-kapi-modeli10.jfif",
+    "slug": "luks-pvc-kabartma-celik-kapi-modeli-10",
+    "pages": [
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      900,
+      1600
+    ],
+    "original_bytes": 188671,
+    "large": "luks-pvc-kabartma-celik-kapi-modeli-10-1600.webp",
+    "large_px": [
+      900,
+      1600
+    ],
+    "large_bytes": 146078,
+    "large_q": 80,
+    "small": "luks-pvc-kabartma-celik-kapi-modeli-10-800.webp",
+    "small_px": [
+      450,
+      800
+    ],
+    "small_bytes": 45360,
+    "small_q": 80
+  },
+  {
+    "original": "luks-pvc-kabartma-celik-kapi-modeli2.jfif",
+    "slug": "luks-pvc-kabartma-celik-kapi-modeli-2",
+    "pages": [
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      553,
+      1373
+    ],
+    "original_bytes": 57184,
+    "large": "luks-pvc-kabartma-celik-kapi-modeli-2-1600.webp",
+    "large_px": [
+      553,
+      1373
+    ],
+    "large_bytes": 29062,
+    "large_q": 80,
+    "small": "luks-pvc-kabartma-celik-kapi-modeli-2-800.webp",
+    "small_px": [
+      322,
+      800
+    ],
+    "small_bytes": 14580,
+    "small_q": 80
+  },
+  {
+    "original": "luks-pvc-kabartma-celik-kapi-modeli5.jfif",
+    "slug": "luks-pvc-kabartma-celik-kapi-modeli-5",
+    "pages": [
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      1204,
+      1600
+    ],
+    "original_bytes": 215694,
+    "large": "luks-pvc-kabartma-celik-kapi-modeli-5-1600.webp",
+    "large_px": [
+      1204,
+      1600
+    ],
+    "large_bytes": 149042,
+    "large_q": 80,
+    "small": "luks-pvc-kabartma-celik-kapi-modeli-5-800.webp",
+    "small_px": [
+      602,
+      800
+    ],
+    "small_bytes": 41630,
+    "small_q": 80
+  },
+  {
+    "original": "luks-pvc-kabartma-celik-kapi-modeli6.jfif",
+    "slug": "luks-pvc-kabartma-celik-kapi-modeli-6",
+    "pages": [
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      721,
+      1600
+    ],
+    "original_bytes": 152154,
+    "large": "luks-pvc-kabartma-celik-kapi-modeli-6-1600.webp",
+    "large_px": [
+      721,
+      1600
+    ],
+    "large_bytes": 114504,
+    "large_q": 80,
+    "small": "luks-pvc-kabartma-celik-kapi-modeli-6-800.webp",
+    "small_px": [
+      360,
+      800
+    ],
+    "small_bytes": 31988,
+    "small_q": 80
+  },
+  {
+    "original": "luks-pvc-kabartma-celik-kapi-modeli7.jfif",
+    "slug": "luks-pvc-kabartma-celik-kapi-modeli-7",
+    "pages": [
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      721,
+      1600
+    ],
+    "original_bytes": 119230,
+    "large": "luks-pvc-kabartma-celik-kapi-modeli-7-1600.webp",
+    "large_px": [
+      721,
+      1600
+    ],
+    "large_bytes": 83130,
+    "large_q": 80,
+    "small": "luks-pvc-kabartma-celik-kapi-modeli-7-800.webp",
+    "small_px": [
+      360,
+      800
+    ],
+    "small_bytes": 22676,
+    "small_q": 80
+  },
+  {
+    "original": "luks-pvc-kabartma-celik-kapi-modeli9.jfif",
+    "slug": "luks-pvc-kabartma-celik-kapi-modeli-9",
+    "pages": [
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      900,
+      1600
+    ],
+    "original_bytes": 157443,
+    "large": "luks-pvc-kabartma-celik-kapi-modeli-9-1600.webp",
+    "large_px": [
+      900,
+      1600
+    ],
+    "large_bytes": 99828,
+    "large_q": 80,
+    "small": "luks-pvc-kabartma-celik-kapi-modeli-9-800.webp",
+    "small_px": [
+      450,
+      800
+    ],
+    "small_bytes": 37370,
+    "small_q": 80
+  },
+  {
+    "original": "luks-pvc-kabartma-daire-ve-bina-giris-kapisi-yanyana.jfif",
+    "slug": "luks-pvc-kabartma-daire-ve-bina-giris-kapisi-yanyana",
+    "pages": [
+      "bina-giris-kapisi",
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      1080,
+      1313
+    ],
+    "original_bytes": 123038,
+    "large": "luks-pvc-kabartma-daire-ve-bina-giris-kapisi-yanyana-1600.webp",
+    "large_px": [
+      1080,
+      1313
+    ],
+    "large_bytes": 65758,
+    "large_q": 80,
+    "small": "luks-pvc-kabartma-daire-ve-bina-giris-kapisi-yanyana-800.webp",
+    "small_px": [
+      658,
+      800
+    ],
+    "small_bytes": 37328,
+    "small_q": 80
+  },
+  {
+    "original": "luks-pvc-kabartma-ozel-kollu-daire-giris-kapisi.jfif",
+    "slug": "luks-pvc-kabartma-ozel-kollu-daire-giris-kapisi",
+    "pages": [
+      "bina-giris-kapisi",
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      815,
+      1600
+    ],
+    "original_bytes": 79205,
+    "large": "luks-pvc-kabartma-ozel-kollu-daire-giris-kapisi-1600.webp",
+    "large_px": [
+      815,
+      1600
+    ],
+    "large_bytes": 32678,
+    "large_q": 80,
+    "small": "luks-pvc-kabartma-ozel-kollu-daire-giris-kapisi-800.webp",
+    "small_px": [
+      407,
+      800
+    ],
+    "small_bytes": 12316,
+    "small_q": 80
+  },
+  {
+    "original": "menfezli-kapi-modeli.jfif",
+    "slug": "menfezli-kapi-modeli",
+    "pages": [
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      721,
+      1600
+    ],
+    "original_bytes": 60692,
+    "large": "menfezli-kapi-modeli-1600.webp",
+    "large_px": [
+      721,
+      1600
+    ],
+    "large_bytes": 30020,
+    "large_q": 80,
+    "small": "menfezli-kapi-modeli-800.webp",
+    "small_px": [
+      360,
+      800
+    ],
+    "small_bytes": 11516,
+    "small_q": 80
+  },
+  {
+    "original": "menfezli-kapi-modeli2.jfif",
+    "slug": "menfezli-kapi-modeli-2",
+    "pages": [
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      1080,
+      1440
+    ],
+    "original_bytes": 79179,
+    "large": "menfezli-kapi-modeli-2-1600.webp",
+    "large_px": [
+      1080,
+      1440
+    ],
+    "large_bytes": 34988,
+    "large_q": 80,
+    "small": "menfezli-kapi-modeli-2-800.webp",
+    "small_px": [
+      600,
+      800
+    ],
+    "small_bytes": 16006,
+    "small_q": 80
+  },
+  {
+    "original": "menfezli-kapi-modeli3.jfif",
+    "slug": "menfezli-kapi-modeli-3",
+    "pages": [
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      921,
+      2048
+    ],
+    "original_bytes": 108463,
+    "large": "menfezli-kapi-modeli-3-1600.webp",
+    "large_px": [
+      719,
+      1600
+    ],
+    "large_bytes": 37152,
+    "large_q": 80,
+    "small": "menfezli-kapi-modeli-3-800.webp",
+    "small_px": [
+      359,
+      800
+    ],
+    "small_bytes": 15678,
+    "small_q": 80
+  },
+  {
+    "original": "metal-celik-kapi.jfif",
+    "slug": "metal-celik-kapi",
+    "pages": [
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      1204,
+      1600
+    ],
+    "original_bytes": 184385,
+    "large": "metal-celik-kapi-1600.webp",
+    "large_px": [
+      1204,
+      1600
+    ],
+    "large_bytes": 128654,
+    "large_q": 80,
+    "small": "metal-celik-kapi-800.webp",
+    "small_px": [
+      602,
+      800
+    ],
+    "small_bytes": 39056,
+    "small_q": 80
+  },
+  {
+    "original": "parlak-siyah-high-gloss-luks-kapi.jfif",
+    "slug": "parlak-siyah-high-gloss-luks-kapi",
+    "pages": [
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      899,
+      1599
+    ],
+    "original_bytes": 104218,
+    "large": "parlak-siyah-high-gloss-luks-kapi-1600.webp",
+    "large_px": [
+      899,
+      1599
+    ],
+    "large_bytes": 58410,
+    "large_q": 80,
+    "small": "parlak-siyah-high-gloss-luks-kapi-800.webp",
+    "small_px": [
+      449,
+      800
+    ],
+    "small_bytes": 26690,
+    "small_q": 80
+  },
+  {
+    "original": "pencreli-kapi-modeli.jfif",
+    "slug": "pencreli-kapi-modeli",
+    "pages": [
+      "camli-bina-kapisi",
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      720,
+      1600
+    ],
+    "original_bytes": 91327,
+    "large": "pencreli-kapi-modeli-1600.webp",
+    "large_px": [
+      720,
+      1600
+    ],
+    "large_bytes": 48698,
+    "large_q": 80,
+    "small": "pencreli-kapi-modeli-800.webp",
+    "small_px": [
+      360,
+      800
+    ],
+    "small_bytes": 19720,
+    "small_q": 80
+  },
+  {
+    "original": "selcuklu-motifli-antrasit-apartman-kapisi.jfif",
+    "slug": "selcuklu-motifli-antrasit-apartman-kapisi",
+    "pages": [
+      "apartman-kapisi",
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      498,
+      1024
+    ],
+    "original_bytes": 57502,
+    "large": "selcuklu-motifli-antrasit-apartman-kapisi-1600.webp",
+    "large_px": [
+      498,
+      1024
+    ],
+    "large_bytes": 40912,
+    "large_q": 80,
+    "small": "selcuklu-motifli-antrasit-apartman-kapisi-800.webp",
+    "small_px": [
+      389,
+      800
+    ],
+    "small_bytes": 27922,
+    "small_q": 80
+  },
+  {
+    "original": "selcuklu-motifli-daire-kapisi.jfif",
+    "slug": "selcuklu-motifli-daire-kapisi",
+    "pages": [
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      899,
+      1599
+    ],
+    "original_bytes": 160394,
+    "large": "selcuklu-motifli-daire-kapisi-1600.webp",
+    "large_px": [
+      899,
+      1599
+    ],
+    "large_bytes": 106460,
+    "large_q": 80,
+    "small": "selcuklu-motifli-daire-kapisi-800.webp",
+    "small_px": [
+      449,
+      800
+    ],
+    "small_bytes": 33474,
+    "small_q": 80
+  },
+  {
+    "original": "selcuklu-motifli-is-yeri-kapisi.jfif",
+    "slug": "selcuklu-motifli-is-yeri-kapisi",
+    "pages": [
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      899,
+      1599
+    ],
+    "original_bytes": 138893,
+    "large": "selcuklu-motifli-is-yeri-kapisi-1600.webp",
+    "large_px": [
+      899,
+      1599
+    ],
+    "large_bytes": 85424,
+    "large_q": 80,
+    "small": "selcuklu-motifli-is-yeri-kapisi-800.webp",
+    "small_px": [
+      449,
+      800
+    ],
+    "small_bytes": 34230,
+    "small_q": 80
+  },
+  {
+    "original": "selcuklu-motifli-kapi-modeli.jfif",
+    "slug": "selcuklu-motifli-kapi-modeli",
+    "pages": [
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      720,
+      1600
+    ],
+    "original_bytes": 86159,
+    "large": "selcuklu-motifli-kapi-modeli-1600.webp",
+    "large_px": [
+      720,
+      1600
+    ],
+    "large_bytes": 48270,
+    "large_q": 80,
+    "small": "selcuklu-motifli-kapi-modeli-800.webp",
+    "small_px": [
+      360,
+      800
+    ],
+    "small_bytes": 19498,
+    "small_q": 80
+  },
+  {
+    "original": "siyah-pervazli-agac-desenli-luks-kapi.jfif",
+    "slug": "siyah-pervazli-agac-desenli-luks-kapi",
+    "pages": [
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      1080,
+      1732
+    ],
+    "original_bytes": 142205,
+    "large": "siyah-pervazli-agac-desenli-luks-kapi-1600.webp",
+    "large_px": [
+      997,
+      1600
+    ],
+    "large_bytes": 62010,
+    "large_q": 80,
+    "small": "siyah-pervazli-agac-desenli-luks-kapi-800.webp",
+    "small_px": [
+      498,
+      800
+    ],
+    "small_bytes": 22002,
+    "small_q": 80
+  },
+  {
+    "original": "siyah-pervazli-gri-kanatli-kapi.jfif",
+    "slug": "siyah-pervazli-gri-kanatli-kapi",
+    "pages": [
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      768,
+      768
+    ],
+    "original_bytes": 82804,
+    "large": "siyah-pervazli-gri-kanatli-kapi-1600.webp",
+    "large_px": [
+      768,
+      768
+    ],
+    "large_bytes": 40112,
+    "large_q": 80,
+    "small": "siyah-pervazli-gri-kanatli-kapi-800.webp",
+    "small_px": [
+      768,
+      768
+    ],
+    "small_bytes": 40112,
+    "small_q": 80
+  },
+  {
+    "original": "tek-acilir-lazerli-aynali-kapi.jfif",
+    "slug": "tek-acilir-lazerli-aynali-kapi",
+    "pages": [
+      "camli-bina-kapisi",
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      1200,
+      1600
+    ],
+    "original_bytes": 243750,
+    "large": "tek-acilir-lazerli-aynali-kapi-1600.webp",
+    "large_px": [
+      1200,
+      1600
+    ],
+    "large_bytes": 162260,
+    "large_q": 80,
+    "small": "tek-acilir-lazerli-aynali-kapi-800.webp",
+    "small_px": [
+      600,
+      800
+    ],
+    "small_bytes": 61970,
+    "small_q": 80
+  },
+  {
+    "original": "tek-acilir-lazerli-aynali-kapi2.jfif",
+    "slug": "tek-acilir-lazerli-aynali-kapi-2",
+    "pages": [
+      "camli-bina-kapisi",
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      721,
+      1600
+    ],
+    "original_bytes": 132377,
+    "large": "tek-acilir-lazerli-aynali-kapi-2-1600.webp",
+    "large_px": [
+      721,
+      1600
+    ],
+    "large_bytes": 100944,
+    "large_q": 80,
+    "small": "tek-acilir-lazerli-aynali-kapi-2-800.webp",
+    "small_px": [
+      360,
+      800
+    ],
+    "small_bytes": 28092,
+    "small_q": 80
+  },
+  {
+    "original": "thermo-wood-izolasyonlu-kapi.jfif",
+    "slug": "thermo-wood-izolasyonlu-kapi",
+    "pages": [
+      "villa-giris-kapisi",
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      720,
+      1600
+    ],
+    "original_bytes": 163059,
+    "large": "thermo-wood-izolasyonlu-kapi-1600.webp",
+    "large_px": [
+      720,
+      1600
+    ],
+    "large_bytes": 137088,
+    "large_q": 80,
+    "small": "thermo-wood-izolasyonlu-kapi-800.webp",
+    "small_px": [
+      360,
+      800
+    ],
+    "small_bytes": 35454,
+    "small_q": 80
+  },
+  {
+    "original": "thermo-woord-agac-tan-yapilmis-bina-giris-kapisi.jfif",
+    "slug": "thermo-wood-agac-tan-yapilmis-bina-giris-kapisi",
+    "pages": [
+      "bina-giris-kapisi",
+      "villa-giris-kapisi",
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      1125,
+      1133
+    ],
+    "original_bytes": 117098,
+    "large": "thermo-wood-agac-tan-yapilmis-bina-giris-kapisi-1600.webp",
+    "large_px": [
+      1125,
+      1133
+    ],
+    "large_bytes": 67138,
+    "large_q": 80,
+    "small": "thermo-wood-agac-tan-yapilmis-bina-giris-kapisi-800.webp",
+    "small_px": [
+      794,
+      800
+    ],
+    "small_bytes": 42772,
+    "small_q": 80
+  },
+  {
+    "original": "uc-acilir-selcuklu-motifli-bina-apartman-kapisi.jfif",
+    "slug": "uc-acilir-selcuklu-motifli-bina-apartman-kapisi",
+    "pages": [
+      "apartman-kapisi",
+      "bina-giris-kapisi",
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      1600,
+      1200
+    ],
+    "original_bytes": 283719,
+    "large": "uc-acilir-selcuklu-motifli-bina-apartman-kapisi-1600.webp",
+    "large_px": [
+      1600,
+      1200
+    ],
+    "large_bytes": 203144,
+    "large_q": 80,
+    "small": "uc-acilir-selcuklu-motifli-bina-apartman-kapisi-800.webp",
+    "small_px": [
+      800,
+      600
+    ],
+    "small_bytes": 82268,
+    "small_q": 80
+  },
+  {
+    "original": "uc-kanatli-beyaz-kapi-selcuklu-motifli.jfif",
+    "slug": "uc-kanatli-beyaz-kapi-selcuklu-motifli",
+    "pages": [
+      "beyaz-renkli-kapi",
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      1024,
+      768
+    ],
+    "original_bytes": 145190,
+    "large": "uc-kanatli-beyaz-kapi-selcuklu-motifli-1600.webp",
+    "large_px": [
+      1024,
+      768
+    ],
+    "large_bytes": 128310,
+    "large_q": 80,
+    "small": "uc-kanatli-beyaz-kapi-selcuklu-motifli-800.webp",
+    "small_px": [
+      800,
+      600
+    ],
+    "small_bytes": 80950,
+    "small_q": 80
+  },
+  {
+    "original": "ustten-isiklikli-bina-kapisi.jfif",
+    "slug": "ustten-isiklikli-bina-kapisi",
+    "pages": [
+      "bina-giris-kapisi",
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      720,
+      1600
+    ],
+    "original_bytes": 167677,
+    "large": "ustten-isiklikli-bina-kapisi-1600.webp",
+    "large_px": [
+      720,
+      1600
+    ],
+    "large_bytes": 147574,
+    "large_q": 80,
+    "small": "ustten-isiklikli-bina-kapisi-800.webp",
+    "small_px": [
+      360,
+      800
+    ],
+    "small_bytes": 40118,
+    "small_q": 80
+  },
+  {
+    "original": "yangin-cikis-kapisi.jfif",
+    "slug": "yangin-cikis-kapisi",
+    "pages": [
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      1204,
+      1600
+    ],
+    "original_bytes": 77429,
+    "large": "yangin-cikis-kapisi-1600.webp",
+    "large_px": [
+      1204,
+      1600
+    ],
+    "large_bytes": 31140,
+    "large_q": 80,
+    "small": "yangin-cikis-kapisi-800.webp",
+    "small_px": [
+      602,
+      800
+    ],
+    "small_bytes": 13030,
+    "small_q": 80
+  },
+  {
+    "original": "yavru-kanat-camli-laminoks-celik-kapi.jfif",
+    "slug": "yavru-kanat-camli-laminoks-celik-kapi",
+    "pages": [
+      "camli-bina-kapisi",
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      1534,
+      2048
+    ],
+    "original_bytes": 354881,
+    "large": "yavru-kanat-camli-laminoks-celik-kapi-1600.webp",
+    "large_px": [
+      1198,
+      1600
+    ],
+    "large_bytes": 130274,
+    "large_q": 80,
+    "small": "yavru-kanat-camli-laminoks-celik-kapi-800.webp",
+    "small_px": [
+      599,
+      800
+    ],
+    "small_bytes": 38610,
+    "small_q": 80
+  },
+  {
+    "original": "yavru-kanatli-camli-bina-giris-kapisi.jfif",
+    "slug": "yavru-kanatli-camli-bina-giris-kapisi",
+    "pages": [
+      "camli-bina-kapisi",
+      "bina-giris-kapisi",
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      721,
+      1600
+    ],
+    "original_bytes": 128150,
+    "large": "yavru-kanatli-camli-bina-giris-kapisi-1600.webp",
+    "large_px": [
+      721,
+      1600
+    ],
+    "large_bytes": 84642,
+    "large_q": 80,
+    "small": "yavru-kanatli-camli-bina-giris-kapisi-800.webp",
+    "small_px": [
+      360,
+      800
+    ],
+    "small_bytes": 30582,
+    "small_q": 80
+  },
+  {
+    "original": "yavru-kanatli-camli-celik-kapi.jfif",
+    "slug": "yavru-kanatli-camli-celik-kapi",
+    "pages": [
+      "camli-bina-kapisi",
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      1536,
+      2048
+    ],
+    "original_bytes": 422417,
+    "large": "yavru-kanatli-camli-celik-kapi-1600.webp",
+    "large_px": [
+      1200,
+      1600
+    ],
+    "large_bytes": 165414,
+    "large_q": 80,
+    "small": "yavru-kanatli-camli-celik-kapi-800.webp",
+    "small_px": [
+      600,
+      800
+    ],
+    "small_bytes": 56746,
+    "small_q": 80
+  },
+  {
+    "original": "yavru-kanatli-kompozit-celik-kapi.jfif",
+    "slug": "yavru-kanatli-kompozit-celik-kapi",
+    "pages": [
+      "bina-giris-kapisi",
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      1153,
+      1471
+    ],
+    "original_bytes": 147605,
+    "large": "yavru-kanatli-kompozit-celik-kapi-1600.webp",
+    "large_px": [
+      1153,
+      1471
+    ],
+    "large_bytes": 80610,
+    "large_q": 80,
+    "small": "yavru-kanatli-kompozit-celik-kapi-800.webp",
+    "small_px": [
+      627,
+      800
+    ],
+    "small_bytes": 26006,
+    "small_q": 80
+  },
+  {
+    "original": "yavru-kanatli-laminoks-bina-giris-kapisi.jfif",
+    "slug": "yavru-kanatli-laminoks-bina-giris-kapisi",
+    "pages": [
+      "bina-giris-kapisi",
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      1080,
+      1397
+    ],
+    "original_bytes": 888477,
+    "large": "yavru-kanatli-laminoks-bina-giris-kapisi-1600.webp",
+    "large_px": [
+      1080,
+      1397
+    ],
+    "large_bytes": 152068,
+    "large_q": 80,
+    "small": "yavru-kanatli-laminoks-bina-giris-kapisi-800.webp",
+    "small_px": [
+      618,
+      800
+    ],
+    "small_bytes": 60124,
+    "small_q": 80
+  },
+  {
+    "original": "yavru-kanatli-lazerli-bina-giris-kapisi.jfif",
+    "slug": "yavru-kanatli-lazerli-bina-giris-kapisi",
+    "pages": [
+      "bina-giris-kapisi",
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      721,
+      1600
+    ],
+    "original_bytes": 174295,
+    "large": "yavru-kanatli-lazerli-bina-giris-kapisi-1600.webp",
+    "large_px": [
+      721,
+      1600
+    ],
+    "large_bytes": 142184,
+    "large_q": 80,
+    "small": "yavru-kanatli-lazerli-bina-giris-kapisi-800.webp",
+    "small_px": [
+      360,
+      800
+    ],
+    "small_bytes": 45152,
+    "small_q": 80
+  },
+  {
+    "original": "yavru-kanatlı-kompozit-celik-kapi.jfif",
+    "slug": "yavru-kanatli-kompozit-celik-kapi-2",
+    "pages": [
+      "bina-giris-kapisi",
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      1536,
+      2048
+    ],
+    "original_bytes": 381237,
+    "large": "yavru-kanatli-kompozit-celik-kapi-2-1600.webp",
+    "large_px": [
+      1200,
+      1600
+    ],
+    "large_bytes": 151008,
+    "large_q": 80,
+    "small": "yavru-kanatli-kompozit-celik-kapi-2-800.webp",
+    "small_px": [
+      600,
+      800
+    ],
+    "small_bytes": 50670,
+    "small_q": 80
+  },
+  {
+    "original": "yavru-kanatlı-lazer-kesim-camlı-celik-kapi.jfif",
+    "slug": "yavru-kanatli-lazer-kesim-camli-celik-kapi",
+    "pages": [
+      "camli-bina-kapisi",
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      721,
+      1600
+    ],
+    "original_bytes": 105785,
+    "large": "yavru-kanatli-lazer-kesim-camli-celik-kapi-1600.webp",
+    "large_px": [
+      721,
+      1600
+    ],
+    "large_bytes": 63648,
+    "large_q": 80,
+    "small": "yavru-kanatli-lazer-kesim-camli-celik-kapi-800.webp",
+    "small_px": [
+      360,
+      800
+    ],
+    "small_bytes": 23796,
+    "small_q": 80
+  },
+  {
+    "original": "yuksek-kapi.jfif",
+    "slug": "yuksek-kapi",
+    "pages": [
+      "osmaniye-celik-kapi-fiyatlari"
+    ],
+    "native": [
+      720,
+      1600
+    ],
+    "original_bytes": 111483,
+    "large": "yuksek-kapi-1600.webp",
+    "large_px": [
+      720,
+      1600
+    ],
+    "large_bytes": 70478,
+    "large_q": 80,
+    "small": "yuksek-kapi-800.webp",
+    "small_px": [
+      360,
+      800
+    ],
+    "small_bytes": 25444,
+    "small_q": 80
+  }
+]

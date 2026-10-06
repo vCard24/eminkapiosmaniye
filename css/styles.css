@@ -287,6 +287,7 @@ ul { margin: 0; padding: 0; list-style: none; }
   font-weight: 700; font-size: 0.86rem; letter-spacing: 0.04em; text-transform: uppercase;
   color: var(--gold-deep); border-bottom: 1px solid currentColor; padding-bottom: 1px;
 }
+.why-item .more + .more { margin-left: 1rem; }
 
 /* ——— Split ——— */
 .split {
@@ -478,6 +479,41 @@ ul { margin: 0; padding: 0; list-style: none; }
   font-family: var(--display); font-size: 1.7rem; margin: 2rem 0 0.75rem;
 }
 .prose p { margin: 0 0 1rem; color: var(--ink-2); }
+.prose.rehber-article h3 {
+  font-family: var(--display);
+  font-size: 1.25rem;
+  margin: 1.5rem 0 0.5rem;
+}
+.prose.rehber-article ul,
+.prose.rehber-article ol {
+  margin: 0 0 1rem;
+  padding-left: 1.25rem;
+  color: var(--ink-2);
+}
+.prose.rehber-article ul { list-style: disc; }
+.prose.rehber-article ol { list-style: decimal; }
+.prose.rehber-article li { margin: 0.35rem 0; }
+.prose.rehber-article a,
+.rehber-related a {
+  color: var(--gold-deep);
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
+}
+.prose.rehber-article a:hover,
+.rehber-related a:hover { color: var(--ink); }
+.rehber-related {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem 1.25rem;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.gallery.rehber-gallery.rehber-feature {
+  grid-template-columns: minmax(0, 420px);
+  max-width: 420px;
+  margin: 0 0 1.25rem;
+}
 .faq details {
   border-top: 1px solid var(--line); padding: 1rem 0;
 }

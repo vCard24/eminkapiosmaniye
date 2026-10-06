@@ -83,7 +83,7 @@ def collect_images(text: str, page_rel: str) -> list[tuple[str, str]]:
 
     # Fallback: any figure/img under products path with alt
     for m in re.finditer(
-        r'<img[^>]+src="([^"]+/assets/img/products/[^"]+)"[^>]*(?:alt="([^"]*)")?',
+        r'<img[^>]+src="([^"]+/assets/img/(?:products|rehber)/[^"]+)"[^>]*(?:alt="([^"]*)")?',
         text,
         flags=re.I,
     ):
