@@ -316,9 +316,24 @@
     show(i);
   });
 
-  /* Product image zoom: mobilya + laminant parke + rehber galleries */
+  /* Horizontal job strips */
+  document.querySelectorAll("[data-job-strip]").forEach((strip) => {
+    const track = strip.querySelector(".job-strip__track");
+    const prev = strip.querySelector("[data-job-prev]");
+    const next = strip.querySelector("[data-job-next]");
+    if (!track) return;
+    const step = () => {
+      const card = track.querySelector("figure");
+      const gap = 14;
+      return (card?.getBoundingClientRect().width || 300) + gap;
+    };
+    prev?.addEventListener("click", () => track.scrollBy({ left: -step(), behavior: "smooth" }));
+    next?.addEventListener("click", () => track.scrollBy({ left: step(), behavior: "smooth" }));
+  });
+
+  /* Product image zoom: mobilya + laminant parke + rehber galleries + uygulama şeridi */
   (() => {
-    if (!document.querySelector(".mobilya-gallery, .mobilya-side, .parke-gallery, .parke-side, .rehber-gallery")) return;
+    if (!document.querySelector(".mobilya-gallery, .mobilya-side, .parke-gallery, .parke-side, .rehber-gallery, .job-strip")) return;
 
     const items = [];
     const frames = [];
@@ -340,7 +355,7 @@
 
     document
       .querySelectorAll(
-        ".mobilya-gallery figure, .parke-gallery figure, .rehber-gallery figure, .mobilya-side, .parke-side"
+        ".job-strip figure, .mobilya-gallery figure, .parke-gallery figure, .rehber-gallery figure, .mobilya-side, .parke-side"
       )
       .forEach((fig) => {
         const img = fig.querySelector("img");
@@ -379,7 +394,7 @@
         }
       });
 
-      if (!finePointer.matches) return;
+      if (!finePointer.matches || frame.closest(".job-strip")) return;
 
       frame.addEventListener("mousemove", (e) => {
         const r = frame.getBoundingClientRect();

@@ -674,6 +674,75 @@ ul { margin: 0; padding: 0; list-style: none; }
   .mobilya-side { height: 260px; max-height: 260px; }
 }
 
+/* Uygulama şeridi: yatay kaydırma, tıklayınca tam sayfa */
+.job-strip {
+  position: relative;
+}
+.job-strip__track {
+  display: flex;
+  gap: 0.85rem;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  scroll-behavior: smooth;
+  -webkit-overflow-scrolling: touch;
+  padding: 0.15rem 0.15rem 0.65rem;
+  scrollbar-width: thin;
+  scrollbar-color: rgba(184, 151, 63, 0.55) transparent;
+}
+.job-strip figure {
+  flex: 0 0 300px;
+  margin: 0;
+  scroll-snap-align: start;
+  cursor: zoom-in;
+  background: transparent;
+}
+.job-strip img {
+  display: block;
+  width: 100%;
+  height: 220px;
+  object-fit: cover;
+  object-position: center;
+  background: #111;
+}
+.job-strip figcaption {
+  margin: 0;
+  padding: 0.55rem 0.15rem 0.15rem;
+  font-size: 0.78rem;
+  line-height: 1.35;
+  color: var(--ink-2);
+  background: transparent;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.job-strip__nav {
+  position: absolute;
+  top: 110px;
+  z-index: 2;
+  width: 40px;
+  height: 40px;
+  display: grid;
+  place-items: center;
+  border: 1px solid rgba(10, 10, 10, 0.18);
+  background: rgba(255, 255, 255, 0.92);
+  color: #111;
+  font-size: 1.35rem;
+  line-height: 1;
+  transform: translateY(-50%);
+}
+.job-strip__nav:hover {
+  border-color: var(--gold);
+  color: var(--gold);
+}
+.job-strip__nav--prev { left: 0.35rem; }
+.job-strip__nav--next { right: 0.35rem; }
+@media (max-width: 700px) {
+  .job-strip figure { flex-basis: 78vw; }
+  .job-strip img { height: 200px; }
+  .job-strip__nav { top: 100px; }
+}
+
 /* Laminant parke — landscape galleries */
 .parke-brand {
   display: flex;
