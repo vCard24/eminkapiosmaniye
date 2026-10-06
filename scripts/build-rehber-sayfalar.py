@@ -33,7 +33,7 @@ PAGES = [
         "title": "Bina Giriş Kapısı: 7 Önemli Seçim Kriteri | Osmaniye",
         "description": "Bina giriş kapısı modelleri, malzeme seçenekleri ve fiyatı etkileyen unsurlar. Osmaniye'de üretici Emin Kapı'dan ölçüye özel üretim ve montaj için arayın.",
         "featured_alt": "Bina giriş kapısı modeli – Emin Kapı Osmaniye",
-        "featured": "lazerli-bina-giris-kapisi",
+        "featured": "luks-pvc-kabartma-daire-ve-bina-giris-kapisi-yanyana",
     },
     {
         "file": "apartman-kapisi.html",
@@ -55,7 +55,7 @@ PAGES = [
         "title": "Villa Giriş Kapısı: 6 Şık ve Güvenli Model | Osmaniye",
         "description": "Villa giriş kapısı modelleri: pivot, çift kanat ve dış iklim serisi. Osmaniye'de üretici Emin Kapı ile villanıza özel ölçü, renk ve kaplama seçenekleri.",
         "featured_alt": "Villa giriş kapısı modeli – Emin Kapı Osmaniye",
-        "featured": "thermo-wood-izolasyonlu-kapi",
+        "featured": "antrasit-siyah-laminoks-apartman-kapisi-cift-kanatli",
     },
     {
         "file": "beyaz-renkli-kapi.html",
@@ -77,7 +77,7 @@ PAGES = [
         "title": "Camlı Bina Kapısı: 6 Güvenli ve Modern Seçenek | Osmaniye",
         "description": "Camlı bina kapısı ile apartman girişiniz aydınlık ve güvenli olsun. Temperli ve lamine camlı modeller Osmaniye Emin Kapı'da; keşif için hemen arayın.",
         "featured_alt": "Camlı bina kapısı modeli – Emin Kapı Osmaniye",
-        "featured": "lazer-kesim-camli-bina-giris-kapisi",
+        "featured": "cift-kanatli-cift-acilir-camli-bina-giris-kapisi",
     },
 ]
 
