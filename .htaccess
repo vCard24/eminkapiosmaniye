@@ -1,6 +1,6 @@
 # Emin Kapi — kalici yonlendirmeler (2026-10-14)
-# Bu blok, sunucuda zaten bir .htaccess varsa onun ALTINA eklenir.
-# Hostinger'in kendi satirlari oldugu gibi kalir.
+# Yer: # END LSCACHE varsa hemen ardindan, diger RewriteRule satirlarindan once.
+# LSCACHE bloguna dokunulmaz. Hostinger'in kendi satirlari silinmez.
 
 <IfModule mod_rewrite.c>
 RewriteEngine On
@@ -27,7 +27,9 @@ RewriteRule ^rehber/oda-kapi-modelleri\.html$ https://eminkapiosmaniye.com/rehbe
 RewriteRule ^rehber/oda-kapisi-fiyatlari\.html$ https://eminkapiosmaniye.com/rehber/osmaniye-oda-kapisi-fiyatlari.html [R=301,L]
 RewriteRule ^urunler/luks-ic-kapi\.html$ https://eminkapiosmaniye.com/rehber/osmaniye-luks-ic-kapi-modelleri.html [R=301,L]
 
-# Yalnizca kokteki /index.html. urunler/index.html bu kurala girmez.
+# Yalnizca ziyaretcinin yazdigi /index.html. DirectoryIndex ic istegi eslesmez.
+# urunler/index.html bu kurala girmez.
+RewriteCond %{THE_REQUEST} \s/index\.html[\s?] [NC]
 RewriteRule ^index\.html$ https://eminkapiosmaniye.com/ [R=301,L]
 
 # Yalnizca kokteki ?p= sorgu anahtari. utm, q ve diger sorgulara dokunulmaz.
