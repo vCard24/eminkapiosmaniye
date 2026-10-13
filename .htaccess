@@ -1,0 +1,48 @@
+# Emin Kapi — kalici yonlendirmeler (2026-10-14)
+# Bu blok, sunucuda zaten bir .htaccess varsa onun ALTINA eklenir.
+# Hostinger'in kendi satirlari oldugu gibi kalir.
+
+<IfModule mod_rewrite.c>
+RewriteEngine On
+
+# Eski WordPress adresleri. Sonunda / olan ve olmayan ayni hedefe gider.
+# Hedef tam adres oldugu icin http/www istekleri de tek adimda iner.
+RewriteRule ^osmaniye-celik-kapi/?$ https://eminkapiosmaniye.com/urunler/celik-kapi.html [R=301,L]
+RewriteRule ^osmaniye-celik-kapi-fiyatlari/?$ https://eminkapiosmaniye.com/rehber/osmaniye-celik-kapi-fiyatlari.html [R=301,L]
+RewriteRule ^category/osmaniye-celik-kapi-fiyatlari/?$ https://eminkapiosmaniye.com/rehber/osmaniye-celik-kapi-fiyatlari.html [R=301,L]
+RewriteRule ^oda-kapi-modelleri/?$ https://eminkapiosmaniye.com/rehber/osmaniye-oda-kapi-modelleri.html [R=301,L]
+RewriteRule ^luks-ic-kapi-modelleri/?$ https://eminkapiosmaniye.com/rehber/osmaniye-luks-ic-kapi-modelleri.html [R=301,L]
+RewriteRule ^celik_kapi_katalogu/?$ https://eminkapiosmaniye.com/urunler/celik-kapi.html [R=301,L]
+RewriteRule ^osmaniye-kapi-modelleri/?$ https://eminkapiosmaniye.com/urunler/ [R=301,L]
+RewriteRule ^feed/?$ https://eminkapiosmaniye.com/ [R=301,L]
+RewriteRule ^comments/feed/?$ https://eminkapiosmaniye.com/ [R=301,L]
+
+# Kisa HTML yedekleri. Dosyalar silinmez; sunucu bu kurali once uygular.
+RewriteRule ^rehber/celik-kapi-fiyatlari\.html$ https://eminkapiosmaniye.com/rehber/osmaniye-celik-kapi-fiyatlari.html [R=301,L]
+RewriteRule ^rehber/celik-kapi-kilitleri\.html$ https://eminkapiosmaniye.com/rehber/osmaniye-celik-kapi-kilitleri.html [R=301,L]
+RewriteRule ^rehber/en-cok-tercih-edilen-kapi-modelleri\.html$ https://eminkapiosmaniye.com/rehber/osmaniye-en-cok-tercih-edilen-kapi-modelleri.html [R=301,L]
+RewriteRule ^rehber/garanti-kosullari\.html$ https://eminkapiosmaniye.com/rehber/osmaniye-garanti-kosullari.html [R=301,L]
+RewriteRule ^rehber/mutfak-dolabi-fiyatlari\.html$ https://eminkapiosmaniye.com/rehber/osmaniye-mutfak-dolabi-fiyatlari.html [R=301,L]
+RewriteRule ^rehber/oda-kapi-modelleri\.html$ https://eminkapiosmaniye.com/rehber/osmaniye-oda-kapi-modelleri.html [R=301,L]
+RewriteRule ^rehber/oda-kapisi-fiyatlari\.html$ https://eminkapiosmaniye.com/rehber/osmaniye-oda-kapisi-fiyatlari.html [R=301,L]
+RewriteRule ^urunler/luks-ic-kapi\.html$ https://eminkapiosmaniye.com/rehber/osmaniye-luks-ic-kapi-modelleri.html [R=301,L]
+
+# Yalnizca kokteki /index.html. urunler/index.html bu kurala girmez.
+RewriteRule ^index\.html$ https://eminkapiosmaniye.com/ [R=301,L]
+
+# Yalnizca kokteki ?p= sorgu anahtari. utm, q ve diger sorgulara dokunulmaz.
+# Sondaki ? sorguyu siler; QSD bayragi kullanilmadi (eski Apache'de 500 riski).
+RewriteCond %{QUERY_STRING} (^|&)p=
+RewriteRule ^$ https://eminkapiosmaniye.com/? [R=301,L]
+
+# https://www (ve bu kurali goren http://www) tek adimda kok alana.
+RewriteCond %{HTTP_HOST} ^www\.eminkapiosmaniye\.com$ [NC]
+RewriteRule ^ https://eminkapiosmaniye.com%{REQUEST_URI} [R=301,L]
+
+# Kok alan, yalnizca sunucu istegi duz HTTP goruyorsa.
+# CDN zaten https dedi ise (X-Forwarded-Proto) dokunulmaz; dongu olmasin.
+RewriteCond %{HTTP_HOST} ^eminkapiosmaniye\.com$ [NC]
+RewriteCond %{HTTPS} !=on
+RewriteCond %{HTTP:X-Forwarded-Proto} !https [NC]
+RewriteRule ^ https://eminkapiosmaniye.com%{REQUEST_URI} [R=301,L]
+</IfModule>
