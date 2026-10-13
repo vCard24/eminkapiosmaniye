@@ -72,6 +72,9 @@
     slider.addEventListener("mouseenter", () => clearInterval(timer));
     slider.addEventListener("mouseleave", restart);
     restart();
+    requestAnimationFrame(() => {
+      requestAnimationFrame(() => slider.classList.add("is-ready"));
+    });
   }
 
   /* Reveal */
